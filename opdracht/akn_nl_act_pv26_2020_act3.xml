@@ -21,26 +21,26 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_ontwerp</soortProcedure>
          <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Grondwaterbeschermingsgebied/nld@2020-03-05;000000039</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/Boringsvrijezone/nld@2020-03-05;000000040</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Recreatiewoningen/nld@2020-03-05;000000042</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Matigkwetsbarestrategischegrondwatervoorraad/nld@2020-03-05;000000043</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/Bufferzonestiltegebied/nld@2020-03-05;000000044</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/Concentratiegebiedglastuinbouw/nld@2020-03-05;000000045</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Grondwaterbeschermingsgebied/nld@2020-03-05;000000039</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Landelijkgebied/nld@2020-03-05;000000047</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/xxx-jaaraandachtsgebied/nld@2020-03-05;000000049</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/Kernrandzone/nld@2020-03-05;000000051</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/Kwetsbarestrategischegrondwatervoorraad/nld@2020-03-05;000000053</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Landelijkgebied/nld@2020-03-05;000000047</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Matigkwetsbarestrategischegrondwatervoorraad/nld@2020-03-05;000000043</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Recreatiewoningen/nld@2020-03-05;000000042</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/Slaperdijk/nld@2020-03-05;000000054</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Stedelijkgebied/nld@2020-03-05;000000057</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Stillekern/nld@2020-03-05;000000062</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Stiltegebied/nld@2020-03-05;000000060</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Strategischegrondwatervoorraad/nld@2020-03-05;000000058</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/Vrijwaringszonestiltegebied/nld@2020-03-05;000000055</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/Waterwingebied/nld@2020-03-05;000000061</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/WaterwingebiedBethunepolder/nld@2020-03-05;000000063</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/WeginbeheerbijdeProvincie/nld@2020-03-05;000000059</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/beperkingengebiedmetbetrekkingtoteenprovincialeweg/nld@2020-03-05;000000056</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/xxx-jaaraandachtsgebied/nld@2020-03-05;000000049</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Stedelijkgebied/nld@2020-03-05;000000057</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Strategischegrondwatervoorraad/nld@2020-03-05;000000058</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/WeginbeheerbijdeProvincie/nld@2020-03-05;000000059</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Stiltegebied/nld@2020-03-05;000000060</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Waterwingebied/nld@2020-03-05;000000061</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/Stillekern/nld@2020-03-05;000000062</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/WaterwingebiedBethunepolder/nld@2020-03-05;000000063</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedure xmlns="https://standaarden.overheid.nl/stop/imop/data/">
