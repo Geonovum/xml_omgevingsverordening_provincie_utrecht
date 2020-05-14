@@ -214,7 +214,7 @@
          </Tijdstempels>
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
-         <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
             <Al>Vaststelling van Omgevingsverordening Utrecht</Al>
          </RegelingOpschrift>
          <Lichaam eId="body" wId="body">
@@ -237,7 +237,7 @@
                </Inhoud>
             </Artikel>
          </Lichaam>
-         <Sluiting eId="formula_2_o_1" wId="formula_2_o_1">
+         <Sluiting eId="formula_2" wId="formula_2">
             <Al>Gegeven te Kampen, 01 februari 2020</Al>
             <Ondertekening>
                <Al>L.Koopmans</Al>
