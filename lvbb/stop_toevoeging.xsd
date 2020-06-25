@@ -2,8 +2,7 @@
 <xs:schema
 	xmlns:stop="http://www.overheid.nl/2017/stop"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	elementFormDefault="qualified" targetNamespace="http://www.overheid.nl/2017/stop"
-	version="@@@VERSION@@@">
+	elementFormDefault="qualified" targetNamespace="http://www.overheid.nl/2017/stop">
 
 	<!--===========================================================================
 	

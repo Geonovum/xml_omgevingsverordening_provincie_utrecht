@@ -1,8 +1,8 @@
 # Release notes
 
-Versie: Standaard v1.0 van 17 april  2020.
+Versie: Standaard v0.98.3-kern van 4 februari 2020.
 
-Gebaseerd op: CIMOW v1.0 van 17 april 2020.
+Gebaseerd op: CIMOW v0.98.1-kern van 27 november 2019 en Standaard v0.98.2-kern van 9 december 2019.
 
 Functionele wijzigingen staan in het CIMOW en het IMOW document opgesomd. Deze
 zorgen voor bijwerkingen van de 'OW' XSD's in de map /IMOW - Generieke schema's
@@ -13,32 +13,11 @@ voor het leveren van bestanden.
 https://www.geostandaarden.nl/imow/
 
 ## Versies
-Alle schema's volgen de x.y.z. systematiek. 
-## Verbeteringen tussen v1.0.1 en v1.0
-	Foutmeldingen van Pons-schema hersteld (verkeerde verwijzing naar OWobject)
-	Kardinaliteitsaanpassingen bij activiteit 
-		Activiteitaanduiding kan nu meerdere keren voorkomen (t.o.v. één keer in 1.0), 
-		de onderliggende activiteitlocatieaanduiding en activiteitref maar één keer (t.o.v. meerdere keren in 1.0)
-	
+Alle schema's volgen de x.y.z. systematiek. Dat deze specificatie gebaseerd is
+op STOP 0.9.8 is te zien aan de opgenomen `<xs:appinfo>0.9.8.1</xs:appinfo>`
 
-## Verbeteringen tussen v1.0 en v0.98.3.1-kern
-	FormeleDivisie hernoemd naar Divisie (en FormeleInhoud vervangen door Divisietekst)
-	Reguliere expressies
-		Voor waarden uit waardelijsten nieuwe regex gemaakt
-		Voor identificatie de waarde mn vervangen door mnre
-	Regelingsgebied toegevoegd
-	Identificaties toegevoegd bij Normwaarden en Juridische regels
-	ActiviteitLocatieaanduiding toegevoegd
-	Kaartmodel aangepast
-	Specifieke symbolisatie toegevoegd
-	Wijzigingen bij Normen
-		Type toegevoegd
-		Waarde van normwaarde naar norm
-		Nieuwe normwaarde ‘waardeInRegeltekst’
-	Attributen bij Pons verwijderd (leidendVanaf en leidendTot)
-## Verbeteringen tussen v0.98.3.1-kern en v0.98.3-kern
--	De GML- en xlink-schema's verwijzen nu statisch (naar de lokale bestanden) in plaats van naar de online website.
-	Hier is voor gekozen zodat we zelf in controle zijn van de functionaliteit in GML en xlink die gebruikt dient te worden.
+Opm. Referentie schemas krijgen versie 0_9 omdat er geen nieuwe objecttypen zijn
+bijgekomen.
 ## Verbeteringen tussen v0.98.3-kern en v0.98.2-kern
 -	Reguliere expressie die identificatie-attributen valideert is aangepast om 
 	ook de waarde 'mnre' als bevoegdgezag-code te accepteren. (N.a.v. aanpassing van 
