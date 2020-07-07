@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
-                    schemaversie="1.0.1">
+                    schemaversie="1.0.3">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv26/2020/OVPU001</FRBRWork>
@@ -21576,11 +21574,13 @@
                            <Divisie eId="cmp_o_18__div_2__div_2.3__div_2.3.2__div_o_9"
                                     wId="pv26_1-0__cmp_o_18__div_2__div_2.3__div_2.3.2__div_o_9">
                               <Kop>
-                                 <Opschrift>Toelichting op artikel 2.30: Vrijstelling havens en aanlegplaatsen voor vaartuigen en voorwerpen Onderdeel a: Bij waterscoutinglocaties gaat het nadrukkelijk om de aanlegplaatsen en daarmee verband houdende voorzieningen die bij de waterscouts in gebruik zijn. Het gaat niet om andere, willekeurige aanlegplaatsen en daarmee verband houdende voorzieningen.</Opschrift>
+                                 <Opschrift>Toelichting op artikel 2.30: Vrijstelling havens en aanlegplaatsen voor vaartuigen en voorwerpen</Opschrift>
                               </Kop>
                               <Divisietekst eId="cmp_o_18__div_2__div_2.3__div_2.3.2__div_o_9__content_o_1"
                                             wId="pv26_1-0__cmp_o_18__div_2__div_2.3__div_2.3.2__div_o_9__content_o_1">
                                  <Inhoud>
+                                    <Al>
+                                       <b>Onderdeel a</b>: Bij waterscoutinglocaties gaat het nadrukkelijk om de aanlegplaatsen en daarmee verband houdende voorzieningen die bij de waterscouts in gebruik zijn. Het gaat niet om andere, willekeurige aanlegplaatsen en daarmee verband houdende voorzieningen.</Al>
                                     <Al>
                                        <b>Onderdeel b</b>: Dit onderdeel maakt het mogelijk om aan een erf, één aanlegsteiger met maximaal twee meerpalen te bouwen. Steigers moeten aan bepaalde afmetingsvoorschriften voldoen om te voorkomen dat zij een te grote inbreuk maken op de door deze paragraaf te beschermen waarden. Om te voorkomen dat verschillende overheden verschillende afmetingsvoorschriften voor steigers hanteren, is aansluiting gezocht bij de voorschriften die de meeste water- of vaarwegbeheerders hanteren voor de betreffende locatie.</Al>
                                  </Inhoud>
@@ -26098,12 +26098,12 @@
                            <Divisie eId="cmp_o_18__div_10__div_10.6__div_o_2__div_o_3"
                                     wId="pv26_1-0__cmp_o_18__div_10__div_10.6__div_o_2__div_o_3">
                               <Kop>
-                                 <Opschrift>Toelichting op C. Toegelaten borden en spandoeken voor de koop, huur of verpachting van een zaak Dit zijn tijdelijke makelaarsborden of -spandoeken. De borden of spandoeken moeten op het betreffende erf of bouwperceel staan. Het gaat dan bijvoorbeeld om woningen, bedrijfspanden, boerderijen of winkels. Borden gericht op het aanbieden van onbebouwd terrein vallen alleen onder de vrijstelling als het bord geplaatst kan</Opschrift>
+                                 <Opschrift>Toelichting op C. Toegelaten borden en spandoeken voor de koop, huur of verpachting van een zaak</Opschrift>
                               </Kop>
                               <Divisietekst eId="cmp_o_18__div_10__div_10.6__div_o_2__div_o_3__content_o_1"
                                             wId="pv26_1-0__cmp_o_18__div_10__div_10.6__div_o_2__div_o_3__content_o_1">
                                  <Inhoud>
-                                    <Al>worden in de directe nabijheid van een gebouw. Plaatsing in het open veld heeft namelijk een veel grotere impact op het landschap en is daarom ongewenst.</Al>
+                                    <Al>Dit zijn tijdelijke makelaarsborden of -spandoeken. De borden of spandoeken moeten op het betreffende erf of bouwperceel staan. Het gaat dan bijvoorbeeld om woningen, bedrijfspanden, boerderijen of winkels. Borden gericht op het aanbieden van onbebouwd terrein vallen alleen onder de vrijstelling als het bord geplaatst kan worden in de directe nabijheid van een gebouw. Plaatsing in het open veld heeft namelijk een veel grotere impact op het landschap en is daarom ongewenst.</Al>
                                  </Inhoud>
                               </Divisietekst>
                            </Divisie>
@@ -26253,9 +26253,11 @@
          <FRBRExpression>/akn/nl/act/pv26/2020/OVPU001/nld@2020-06-09;1-0</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1-0</versienummer>
+      </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_004</soortRegeling>
-         <versienummer>1-0</versienummer>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <officieleTitel>Omgevingsverordening Provincie Utrecht</officieleTitel>
