@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
                                      xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
                                      xmlns:gml="http://www.opengis.net/gml/3.2"
                                      xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                                      xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../stop/imop-geo.xsd"
-                                     schemaversie="1.0.1">
+                                     schemaversie="1.0.3">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>TOP10NL</gio:achtergrondVerwijzing>
