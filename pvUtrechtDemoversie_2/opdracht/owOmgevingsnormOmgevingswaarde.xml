@@ -39,25 +39,26 @@
             </rol:Omgevingswaarde>
          </ow-dc:owObject>
       </sl:stand>
-     <!-- <sl:stand>
+     <sl:stand>
          <ow-dc:owObject>
             <rol:Omgevingsnorm>
-               <rol:identificatie>nl.imow-gm0297.omgevingsnorm.2020000002</rol:identificatie>
+               <rol:identificatie>nl.imow-pv26.omgevingsnorm.2020000002</rol:identificatie>
                <rol:naam>maximum bouwhoogte bedrijfsgebouw</rol:naam>
-               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type> <!-\-hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-\->
-               <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</rol:eenheid>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type> <!--inhoudelijk klopt hier natuurlijk niets van-->
+               <!--<rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/DecibelMetAWeging</rol:eenheid>-->
                <rol:normwaarde>
                   <rol:Normwaarde>
-                     <rol:identificatie>nl.imow-gm0297.normwaarde.2019000003</rol:identificatie>
-                     <rol:kwantitatieveWaarde>7</rol:kwantitatieveWaarde>					
+                     <rol:identificatie>nl.imow-pv26.normwaarde.2020000002</rol:identificatie>
+                     <!--<rol:kwantitatieveWaarde>40</rol:kwantitatieveWaarde>-->
+                     <rol:waardeInRegeltekst>waarde staat in regeltekst</rol:waardeInRegeltekst>
                      <rol:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/> <!-\-Z1-\->
+                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000223"/> <!--Z1-->
                      </rol:locatieaanduiding>
                   </rol:Normwaarde>
                </rol:normwaarde>
-               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Bouwaanduiding</rol:groep>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Geluid</rol:groep>
             </rol:Omgevingsnorm>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
     </sl:standBestand>
 </ow-dc:owBestand>
