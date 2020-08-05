@@ -161,9 +161,6 @@
                <rol:identificatie>nl.imow-pv26.activiteit.2020000000012</rol:identificatie>
                <rol:naam>verkooppunt of standplaats voor handel hebben of inrichten</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Standplaatsactiviteit</rol:groep>
-               <rol:gerelateerdeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.2020000000011"/>
-               </rol:gerelateerdeActiviteit>
                <rol:bovenliggendeActiviteit>
                   <rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.ActiviteitGevolgenFysiekeLeefomg"/>
                </rol:bovenliggendeActiviteit>

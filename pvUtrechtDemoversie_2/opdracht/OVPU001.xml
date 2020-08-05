@@ -112,7 +112,6 @@
             <informatieobjectRef>/join/id/regdata/pv26/2020/neder-rijn/nld@2020-06-02</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/ontgrondingeninfrastructuurenwaterstaatswerken/nld@2020-06-02</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/overstroombaargebied/nld@2020-06-02</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/plangebied/nld@2020-06-02</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/provinciaalbereikbaarheidsnetwerk/nld@2020-06-02</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/provincialeov-netwerk/nld@2020-06-02</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/provincialevaarwegen/nld@2020-06-02</informatieobjectRef>
@@ -1083,13 +1082,6 @@
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/zwemwaterinoppervlaktewater/nld@2020-06-02</instrumentVersie>
                <eId>cmp_2__list_o_1__item_o_129</eId>
-            </BeoogdInformatieobject>
-            <BeoogdInformatieobject>
-               <doelen>
-                  <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
-               </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/plangebied/nld@2020-06-02</instrumentVersie>
-               <eId/>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
