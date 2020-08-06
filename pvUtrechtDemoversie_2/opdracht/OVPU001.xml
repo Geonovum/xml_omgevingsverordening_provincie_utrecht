@@ -5902,7 +5902,7 @@
                                     <Li eId="chp_4__subsec_4.1__art_4.1__para_2__list_o_1__item_b"
                                         wId="pv26_1-0__chp_4__subsec_4.1__art_4.1__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
-                                       <Al>een beschrijving van de wijze waarop het plangebied wordt ontsloten voor de verschillende vervoerwijzen;</Al>
+                                       <Al>een beschrijving van de wijze waarop het <IntIoRef wId="a" eId="b" ref="c">plangebied</IntIoRef> wordt ontsloten voor de verschillende vervoerwijzen;</Al>
                                     </Li>
                                     <Li eId="chp_4__subsec_4.1__art_4.1__para_2__list_o_1__item_c"
                                         wId="pv26_1-0__chp_4__subsec_4.1__art_4.1__para_2__list_o_1__item_c">
@@ -16685,6 +16685,15 @@
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_128__ref_o_1"
                                               wId="pv26_1-0__cmp_2__content_o_1__list_o_1__item_o_128__ref_o_1"
                                               ref="/join/id/regdata/pv26/2020/zwemwaterinoppervlaktewater/nld@2020-06-02">/join/id/regdata/pv26/2020/zwemwaterinoppervlaktewater/nld@2020-06-02</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip  eId="cmp_2__content_o_1__list_o_1__item_o_129"
+                                    wId="pv26_1-0__cmp_2__content_o_1__list_o_1__item_o_129">
+                                 <Term>plangebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_129__ref_o_1" wId="pv26_1-0__cmp_2__content_o_1__list_o_1__item_o_129__ref_o_1" ref=""></ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
