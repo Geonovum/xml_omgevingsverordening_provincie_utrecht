@@ -553,5 +553,9 @@
          <naam>owGebiedsaanwijzing.xml</naam>
          <objecttype>Gebiedsaanwijzing</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>owRegelingsgebied.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>
