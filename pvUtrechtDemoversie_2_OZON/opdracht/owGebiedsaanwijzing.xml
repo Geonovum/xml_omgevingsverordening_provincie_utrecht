@@ -562,7 +562,7 @@
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000138</ga:identificatie>
-               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
                <ga:naam>Drecht-West</ga:naam>
 <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
                <ga:locatieaanduiding>
@@ -1251,8 +1251,7 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000191</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/ExterneVeiligheid</ga:type>
                <ga:naam>Seveso inrichting</ga:naam>
-               <!--Let op: waarde "Externe veiligheid - Risicogebied" ontbreekt in waardelijst "Functiegroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/ExterneVeiligheid</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/externeveiligheid/id/concept/Risicogebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000253"/>
                </ga:locatieaanduiding>
