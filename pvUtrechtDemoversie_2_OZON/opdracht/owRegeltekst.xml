@@ -23502,7 +23502,7 @@
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200000157"/>
                </r:gebiedsaanwijzing>
                <r:omgevingsnormaanduiding>
-                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm0297.omgevingsnorm.2020000002"/>
+                  <rol:OmgevingsnormRef xlink:href="nl.imow-pv26.omgevingsnorm.2020000002"/>
                </r:omgevingsnormaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
