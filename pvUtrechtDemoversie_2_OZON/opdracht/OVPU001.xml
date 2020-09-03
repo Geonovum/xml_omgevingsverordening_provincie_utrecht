@@ -10,7 +10,13 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <officieleTitel>Omgevingsverordening Provincie Utrecht</officieleTitel>
+         <officieleTitel>Concept ontwerp omgevingsverordening provincie Utrecht – 17 maart 2020</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Concept ontwerp omgevingsverordening provincie Utrecht – 17 maart 2020</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
@@ -186,755 +192,755 @@
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenhollandsewaterlinies/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_1</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_2</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_2</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/aandachtsgebiedstiltegebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_3</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_3</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/aanvraagontheffinginstructieregels/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_4</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_4</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/aardkundigewaarden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_5</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_5</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/agrarischebedrijven/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_6</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_6</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/amstel/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_7</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_7</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/amsterdam-rijnkanaalenlek/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_8</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_8</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/regionaalfietsnetwerk/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_9</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_9</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beperkenbodembewerking/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_10</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_10</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beperkingengebiedbeheerprovincialewegen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_11</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_11</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beperkingengebiedbouwwerkenprovincialewegen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_12</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_12</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beperkingengebiedlokalespoorwegen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_13</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_13</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beperkingengebiedlokalespoorwegenbeschermingszone/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_14</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_14</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beperkingengebiedvaarwegen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_15</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_15</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beperkingengebiedvrijzichtprovincialewegen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_16</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_16</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/bereikbaarheid/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_17</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_17</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/beschermdkleinlandschapselement/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_18</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_18</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/bestaandwinkelgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_19</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_19</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/binnendebebouwdekom/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_20</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_20</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezone/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_21</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_21</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezones/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_22</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_22</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezonesamersfoort-koedijkerwegrhenenenwoudenberg/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_23</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_23</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezoneslangerakenlexmond/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_24</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_24</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezonesoverig/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_25</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_25</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezonetullentwaal/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_26</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_26</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezoneveenendaal/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_27</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_27</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/boringsvrijezonewcbnieuwegein/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_28</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_28</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/bovenlokaaldagrecreatieterrein/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_29</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_29</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/bufferluchtvaartterrein/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_30</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_30</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/bufferzonestiltegebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_31</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_31</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/buitendebebouwdekom/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_32</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_32</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/agrarischcultuurlandschap/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_33</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_33</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/archeologischwaardevollezone/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_34</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_34</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/historischebuitenplaatszone/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_35</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_35</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/historischeinfrastructuur/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_36</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_36</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/militairerfgoed/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_37</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_37</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/concentratiegebiedglastuinbouw/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_38</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_38</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/cultuurhistorischehoofdstructuur/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_39</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_39</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/dempenoppervlaktewaterlichamen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_40</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_40</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/detailhandel/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_41</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_41</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/detailhandelbuitenbestaandwinkelgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_42</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_42</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/dijktraject1op10/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_43</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_43</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/drecht-west/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_44</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_44</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/energie/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_45</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_45</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/faunabeheereenheid/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_46</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_46</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_47</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_47</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/gebiedenmetbelangbiodiversiteitaziatischeduizendknopen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_48</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_48</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/gebiedwoonschepen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_49</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_49</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/geluidscontourprovincialewegen61db/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_50</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_50</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/geslotenstortplaatsen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_51</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_51</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/glastuinbouwniettoegestaan/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_52</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_52</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/groenecontour/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_53</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_53</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondverzetenrommelterreinen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_54</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_54</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwater/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_55</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_55</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterbeheer/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_56</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_56</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_57</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_57</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedbeerschoten/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_58</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_58</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedenamersfoort-bergdoornlangeraksoestduinenenwoerden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_59</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_59</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedendriebergenleersumenrhenen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_60</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_60</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedenamersfoort-bergdoornlangeraklexmondsoestduinenenwoerden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_61</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_61</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterbeschermingszones/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_62</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_62</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwateronttrekkingen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_63</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_63</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwateronttrekking/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_64</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_64</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwatersanering/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_65</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_65</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/grondwaterverontreiniging/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_66</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_66</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/handhavenhuidigprofiel/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_67</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_67</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/houtopstanden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_68</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_68</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/kantorenopknooppuntutrechtcentraal/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_69</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_69</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/kantoren/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_70</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_70</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/kerkvaartdanne/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_71</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_71</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/kernrandzone/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_72</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_72</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/kleinebodemenergiesystemen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_73</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_73</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landbouwontwikkelingsgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_74</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_74</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landelijkgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_75</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_75</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landschapeemland/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_76</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_76</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landschapgeldersevallei/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_77</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_77</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landschapgroenehart/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_78</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_78</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landschappen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_79</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_79</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landschaprivierengebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_80</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_80</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/landschaputrechtseheuvelrug/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_81</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_81</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/leggerwaterstaatswerken/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_82</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_82</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/linge/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_83</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_83</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/locatieswindenergieenzonnevelden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_84</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_84</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/luchtvaart/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_85</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_85</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/luchtvaartterrein/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_86</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_86</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/matigkwetsbarestrategischegrondwatervoorraad/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_87</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_87</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/merwedekanaal/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_88</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_88</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/natura2000-gebieden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_89</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_89</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/natuurnetwerknederland/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_90</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_90</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/neder-rijn/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_91</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_91</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/ontgrondingeninfrastructuurenwaterstaatswerken/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_92</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_92</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/overstroombaargebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_93</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_93</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/provinciaalbereikbaarheidsnetwerk/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_94</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_94</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/provincialeov-netwerk/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_95</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_95</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/provincialevaarwegen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_96</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_96</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/provincieutrecht/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_97</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_97</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/recreatiewoningen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_98</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_98</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/recreatiezone/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_99</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_99</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/reductielocatiesthematischestructuurvisiekantoren/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_100</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_100</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/regionalekeringen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_101</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_101</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/sevesoinrichting/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_102</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_102</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/singeltewoerden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_103</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_103</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/stedelijkgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_104</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_104</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/stillekern/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_105</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_105</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/stiltegebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_106</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_106</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/transformatorstation/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_107</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_107</eId>
             </BeoogdInformatieobject>
             <!--
             <BeoogdeRegeling>
-               <doel>/join/id/proces/pv26/20/InstellingOmgevingsverordening</doel>
+               <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                <instrumentVersie>/join/id/regdata/pv26/2020/transformatorstations/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_108</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_108</eId>
             </BeoogdeRegeling>
             -->
             <BeoogdInformatieobject>
@@ -942,147 +948,147 @@
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/uitbreidingwoningbouwondervoorwaarden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_109</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_109</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/vaarwegbeheer/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_110</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_110</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/vaarwegen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_111</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_111</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/vaarwegenagv/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_112</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_112</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/vaarwegengemeenteamersfoort/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_113</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_113</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/vaarwegengemeenteutrecht/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_114</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_114</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/vaarwegenhdsr/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_115</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_115</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/verbodvarendontgassen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_116</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_116</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/verplichtepeilbesluitgebieden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_117</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_117</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/vrijwaringszoneregionalewaterkering/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_118</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_118</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/waardevollehoutopstanden/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_119</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_119</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/waterbergingsgebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_120</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_120</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/wateroverlast/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_121</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_121</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/waterwingebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_122</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_122</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/waterwingebiedbethunepolderwaterleidingkanaal/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_123</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_123</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/waterwingebiedbethunepolder/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_124</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_124</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/waterwingebiedenlexmondwoerdenenvianen/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_125</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_125</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/weidevogelkerngebied/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_126</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_126</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/wildbeheereenheid/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_127</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_127</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/windturbineskleinerdan20meter/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_128</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_128</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/zwemwaterinoppervlaktewater/nld@2020-06-02</instrumentVersie>
-               <eId>cmp_2__list_o_1__item_o_129</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_129</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
@@ -1094,7 +1100,7 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/pv26/20/InstellingOmgevingsverordening</doel>
+               <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-08-02</datum>
                <eId>art_II</eId>

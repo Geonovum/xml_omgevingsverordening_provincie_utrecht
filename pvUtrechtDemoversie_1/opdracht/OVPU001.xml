@@ -931,7 +931,7 @@
             </BeoogdInformatieobject>
             <!--
             <BeoogdeRegeling>
-               <doel>/join/id/proces/pv26/20/InstellingOmgevingsverordening</doel>
+               <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                <instrumentVersie>/join/id/regdata/pv26/2020/transformatorstations/nld@2020-06-02</instrumentVersie>
                <eId>cmp_2__list_o_1__item_o_108</eId>
             </BeoogdeRegeling>
@@ -1086,7 +1086,7 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/pv26/20/InstellingOmgevingsverordening</doel>
+               <doel>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-08-02</datum>
                <eId>art_II</eId>
