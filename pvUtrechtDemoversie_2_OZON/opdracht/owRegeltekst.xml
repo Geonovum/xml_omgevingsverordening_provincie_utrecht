@@ -26,6 +26,39 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="pv26_1-0__chp_1__subsec_1.1__art_1.4">
+               <!-- Extra Regeltekst ten behoeve van bovenliggende activiteit nl.imow-pv26.activiteit.topactiviteitOmgVerordening -->
+               <r:identificatie>nl.imow-pv26.regeltekst.2020000000000</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <!-- Extra RegelVoorIedereen ten behoeve van bovenliggende activiteit nl.imow-pv26.activiteit.topactiviteitOmgVerordening -->
+               <r:identificatie>nl.imow-pv26.juridischeregel.2020000000</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.2020000000000"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.topactiviteitOmgVerordening"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000000</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:Regeltekst wId="pv26_1-0__chp_1__subsec_1.1__art_1.5__para_1">
                <!--nl.imow-pv26.regeltekst.2020000000014-->
                <r:identificatie>nl.imow-pv26.regeltekst.2020000000001</r:identificatie>
