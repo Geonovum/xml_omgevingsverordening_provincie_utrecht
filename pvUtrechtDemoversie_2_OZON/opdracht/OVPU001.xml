@@ -16702,7 +16702,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage" wId="pv26_1-0__cmp_Bijlage">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Parameters en frequentie van bemonstering en analyse van te infiltreren water</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage__content_o_1" wId="pv26_1-0__cmp_Bijlage__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
@@ -17083,7 +17083,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst2" wId="pv26_1-0__cmp_Bijlage_inst2">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Modelborden grondwaterbeschermingszones</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst2__content_o_1"
@@ -17106,7 +17106,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst3" wId="pv26_1-0__cmp_Bijlage_inst3">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Lijst verboden activiteiten in grondwaterbeschermingsgebieden</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst3__content_o_1"
@@ -17360,7 +17360,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst4" wId="pv26_1-0__cmp_Bijlage_inst4">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Lijst niet-toelaatbare voor het grondwater schadelijke stoffen</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst4__content_o_1"
@@ -17765,7 +17765,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst5" wId="pv26_1-0__cmp_Bijlage_inst5">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Tabel hoeveelheidsdrempel voor stoffen</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst5__content_o_1"
@@ -18080,7 +18080,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst6" wId="pv26_1-0__cmp_Bijlage_inst6">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Uitzondering vergunningplicht andere soorten</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst6__content_o_1"
@@ -18098,7 +18098,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst7" wId="pv26_1-0__cmp_Bijlage_inst7">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Wezenlijke kenmerken en waarden</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst7__content_o_1"
@@ -18186,7 +18186,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst8" wId="pv26_1-0__cmp_Bijlage_inst8">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Berekenen compensatieopgave ontwikkeling van groot openbaar belang</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst8__content_o_1"
@@ -18409,7 +18409,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst9" wId="pv26_1-0__cmp_Bijlage_inst9">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Eiland van Schalkwijk</Opschrift>
                   </Kop>
                   <Divisie eId="cmp_Bijlage_inst9__div_o_1"
@@ -18658,7 +18658,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst10" wId="pv26_1-0__cmp_Bijlage_inst10">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Mobiliteitstoets</Opschrift>
                   </Kop>
                   <Divisie eId="cmp_Bijlage_inst10__div_o_1"
@@ -18814,7 +18814,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst11" wId="pv26_1-0__cmp_Bijlage_inst11">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Cultuurhistorie</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst11__content_o_1"
@@ -19492,7 +19492,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst12" wId="pv26_1-0__cmp_Bijlage_inst12">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Kernkwaliteiten Landschap</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst12__content_o_1"
@@ -19646,7 +19646,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst13" wId="pv26_1-0__cmp_Bijlage_inst13">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Luchtvaartterrein</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_Bijlage_inst13__content_o_1"
@@ -19691,7 +19691,7 @@
                </Bijlage>
                <Bijlage eId="cmp_Bijlage_inst14" wId="pv26_1-0__cmp_Bijlage_inst14">
                   <Kop>
-                     <Nummer>Bijlage</Nummer>
+                     <Label>Bijlage</Label>
                      <Opschrift>Toegelaten borden, spandoeken, vlaggen, informatiezuilen en vergelijkbare objecten</Opschrift>
                   </Kop>
                   <Divisie eId="cmp_Bijlage_inst14__div_A"
