@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/pv26/2020/aandachtsgebiedstiltegebied</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/pv26/2020/aandachtsgebiedstiltegebied/nld@2020-06-02</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/pv26/2020/stiltegebied</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/pv26/2020/stiltegebied/nld@2020-06-02</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
