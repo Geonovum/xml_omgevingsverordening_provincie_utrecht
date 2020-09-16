@@ -5341,7 +5341,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5406,7 +5405,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5472,7 +5470,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000242"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5666,7 +5663,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000242"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5690,7 +5686,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000043</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000242"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -5759,7 +5754,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000242"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5783,7 +5777,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000045</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000242"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -7134,7 +7127,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -7230,7 +7222,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -7326,7 +7317,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -7422,7 +7412,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -8082,8 +8071,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -8149,8 +8136,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -8560,8 +8545,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Meldingsplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11520,8 +11503,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11545,9 +11526,7 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000115</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11637,8 +11616,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11662,9 +11639,7 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000118</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11754,8 +11729,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11779,9 +11752,7 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000121</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11871,8 +11842,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11896,9 +11865,7 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000124</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -11988,8 +11955,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -12013,9 +11978,7 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000127</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -16011,7 +15974,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000130</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000147"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16109,7 +16071,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000131</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Meldingsplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16174,7 +16135,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000132</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Meldingsplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16239,7 +16199,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000133</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16304,7 +16263,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000134</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16369,7 +16327,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000135</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16434,7 +16391,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000136</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16498,7 +16454,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000137</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -16546,7 +16501,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000138</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000129"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000240"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -18421,7 +18375,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000134"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -18469,7 +18422,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000134"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -18517,7 +18469,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000141</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000134"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -18583,7 +18534,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000134"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -18631,7 +18581,6 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000254"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000134"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -20366,8 +20315,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000147</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -20433,8 +20380,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000148</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -20500,8 +20445,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000149</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -20567,8 +20510,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000150</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -20634,8 +20575,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000151</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -20701,8 +20640,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000152</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
@@ -20768,8 +20705,6 @@
                      <r:identificatie>nl.imow-pv26.activiteitlocatieaanduiding.2020000153</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
-                        <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                         <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000160"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>

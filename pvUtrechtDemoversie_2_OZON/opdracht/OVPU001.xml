@@ -11,6 +11,12 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <officieleTitel>Concept ontwerp omgevingsverordening provincie Utrecht – 17 maart 2020</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Concept ontwerp omgevingsverordening provincie Utrecht – 17 maart 2020</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
