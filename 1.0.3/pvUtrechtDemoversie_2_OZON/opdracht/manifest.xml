@@ -386,6 +386,10 @@
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
+      <lvbb:bestandsnaam>plangebied.gml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/gml+xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
       <lvbb:bestandsnaam>Provinciaalbereikbaarheidsnetwerk.gml</lvbb:bestandsnaam>
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
@@ -1043,6 +1047,10 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>GIO0129_zwemwaterinoppervlaktewater.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>GIO0130_plangebied.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <!-- OW-bestanden -->
