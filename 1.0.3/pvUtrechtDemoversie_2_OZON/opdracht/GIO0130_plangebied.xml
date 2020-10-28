@@ -21,9 +21,6 @@
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <alternatieveTitels>
-            <alternatieveTitel>Zwemlocatie</alternatieveTitel>
-         </alternatieveTitels>
          <officieleTitel>/join/id/regdata/pv26/2020/zwemwaterinoppervlaktewater</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <naamInformatieObject>Plangebied</naamInformatieObject>
