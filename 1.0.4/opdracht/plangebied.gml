@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork/>
-         <geo:FRBRExpression/>
+         <geo:FRBRWork>/join/id/regdata/pv26/2020/plangebied</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/pv26/2020/plangebied/nld@2020-06-02</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
