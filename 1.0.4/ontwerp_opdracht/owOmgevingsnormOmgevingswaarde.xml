@@ -14,7 +14,7 @@
       <sl:dataset>provincie Utrecht</sl:dataset>
       <sl:inhoud>
          <sl:gebied>provincie Utrecht</sl:gebied>
-         <sl:leveringsId>OVPU001OntwerpOntwerp</sl:leveringsId>
+         <sl:leveringsId>OVPU001Ontwerp</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Omgevingsnorm</sl:objectType>
             <sl:objectType>Omgevingswaarde</sl:objectType>
