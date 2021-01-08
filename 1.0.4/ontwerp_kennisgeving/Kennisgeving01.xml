@@ -42,30 +42,28 @@
       <Lichaam eId="body" wId="body">
         <Divisietekst eId="content_1" wId="pv26_1__content_1">
           <Kop>
-            <Opschrift>Vaststelling Omgevingsverordening Utrecht</Opschrift>
+            <Opschrift>Ontwerp Omgevingsverordening Utrecht</Opschrift>
           </Kop>
           <Inhoud>
-            <Al>Provinciale Staten van Utrecht hebben op 17 juni 2020 de
-              Omgevingsverordening Utrecht vastgesteld en vrijgegeven voor terinzagelegging.
-            </Al>
+            <Al>Gedeputeerde Staten van Utrecht delen mee dat van 19 juni tot en met 31 juli 2021 voor eenieder ter inzage ligt het ontwerp van de omgevingsverordening.</Al>
+            <Al>De omgevingsverordening bevat de provinciale regels over de fysieke leefomgeving. Voor een deel zijn dit regels die voor iedereen gelden. Het overige deel betreft regels die aangeven hoe de gemeenten bepaalde zaken in hun omgevingsplan moeten regelen.</Al>
           </Inhoud>
         </Divisietekst>
         <Divisietekst eId="content_2" wId="pv26_1__content_2">
           <Kop>
-            <Opschrift>Terinzagelegging</Opschrift>
+            <Opschrift>Reageren</Opschrift>
           </Kop>
           <Inhoud>
-            <Al> Het ontwerp van de omgevingsverordening is in te zien met
-              ingang van 19 juni 2020 tot en met 31 juli 2020 via </Al>
-            <Lijst eId="content_2__list_1" type="expliciet"
+            <Al>Tijdens de periode waarin het ontwerp van de omgevingsverordening ter inzage ligt kan iedereen een zienswijze over het ontwerp geven. Dat kan op de volgende manieren:</Al>
+            <Lijst eId="content_2__list_1" type="ongemarkeerd"
               wId="pv26_1__content_2__list_1">
               <Li eId="content_2__list_1__item_1" wId="pv26_1__content_2__list_1__item_1">
-                <LiNummer>•</LiNummer>
-                <Al>Online, via <ExtRef ref="/akn/nl/bill/pv26/2020/ontwerpbesluit01/nld@2020-02-15" soort="AKN"
-                  >www.officielebekendmakingen.nl</ExtRef></Al>
+                <Al>schriftelijk: stuur uw zienswijze naar Gedeputeerde Staten van Utrecht, Postbus 16002, 3500 DA Utrecht, onder vermelding van 'zienswijze over ontwerp omgevingsverordening'. 
+                  De zienswijzenbrief moet door u ondertekend zijn en ten minste uw naam, adres en woonplaats en indien mogelijk ook uw telefoonnummer bevatten.</Al>
               </Li>
               <Li eId="content_2__list_1__item_2" wId="pv26_1__content_2__list_1__item_2">
-                <LiNummer>•</LiNummer>
+                <Al>mondeling: maak een afspraak met de heer J. Janssen via telefoonnummer 030 123 45 67</Al>
+                <Al>de landelijke voorziening <ExtRef ref="/akn/nl/bill/pv26/2020/OVPU001/nld@2020-06-09" soort="AKN">www.officielebekendmakingen.nl</ExtRef></Al>
                 <Al>Provinciehuis Utrecht, Archimedeslaan 6 te Utrecht</Al>
               </Li>
             </Lijst>
@@ -73,38 +71,18 @@
         </Divisietekst>
         <Divisietekst eId="content_3" wId="pv26_1__content_3">
           <Kop>
-            <Opschrift>Op welke wijze kunt u beroep instellen en verzoek om voorlopige voorziening
-              indienen?</Opschrift>
+            <Opschrift>Inzien</Opschrift>
           </Kop>
           <Inhoud>
-            <Al>Gedurende de inzagetermijn (ingang van 19 juni 2020 tot en met 31 juli 2020)
-              kan een belanghebbende die het niet eens is met de op 17 juni 2020 vastgestelde
-              verordening daartegen beroep instellen bij de Afdeling bestuursrechtspraak van de Raad
-              van State. Degenen die reeds eerder beroep hebben ingesteld tegen het inpassingsplan
-              hoeven dat niet opnieuw te doen. Deze beroepen worden – voor zover deze niet reeds
-              niet-ontvankelijk of ongegrond zijn verklaard - geacht mede tegen dit nieuwe besluit
-              te zijn gericht.</Al>
-            <Al>Uw schriftelijk beroep stuurt u naar de Raad van State, Afdeling
-              bestuursrechtspraak, Postbus 200019, 2500 EA ’s-Gravenhage. Verzocht wordt in het
-              beroepschrift te vermelden tegen welk plan/besluit het beroep is gericht. Binnen de
-              beroepstermijn kan een verzoek om voorlopige voorziening bij de voorzieningenrechter
-              van de Afdeling bestuursrechtspraak van de Raad van State worden ingediend.</Al>
-            <Al>Het verzoek om een voorlopige voorziening moet worden ingediend bij de Voorzitter
-              van de Afdeling bestuursrechtspraak van de Raad van State, Postbus 20019, 2500 EA
-              ’s-Gravenhage.</Al>
-            <Al>Meer informatie over het instellen van beroep, het indienen van een verzoek om
-              voorlopige voorzieningen en het te betalen griffierecht treft u aan op <ExtRef
-                ref="https://www.raadvanstate.nl" soort="URL">www.raadvanstate.nl</ExtRef>. </Al>
-          </Inhoud>
-        </Divisietekst>
-        <Divisietekst eId="content_4" wId="pv26_1__content_4">
-          <Kop>
-            <Opschrift>Meer informatie</Opschrift>
-          </Kop>
-          <Inhoud>
-            <Al>Voor meer informatie over het inpassingsplan kunt u contact opnemen met de provincie
-              via <ExtRef ref="https://www.utrecht.nl/loket" soort="URL">het loket</ExtRef> of via
-              030-xxxxxxxx.</Al>
+            <Al>Het ontwerp van de omgevingsverordening is in te zien via:</Al>
+            <Lijst type="ongemarkeerd" wId="pv_26_1__content_3__list_1" eId="content_3__list_1">
+              <Li wId="pv_26_1__content_3__list_1__item_1" eId="content_3__list_1__item_1">
+                <Al>de landelijke voorziening <ExtRef ref="/akn/nl/bill/pv26/2020/OVPU001/nld@2020-06-09" soort="AKN">www.officielebekendmakingen.nl</ExtRef></Al>
+              </Li>
+              <Li wId="pv_26_1__content_3__list_1__item_2" eId="content_3__list_1__item_2">
+                <Al>onze website <ExtRef soort="URL" ref="https://www.provincie-utrecht.nl/actueel">provincie-utrecht.nl/actueel</ExtRef></Al>
+              </Li>
+            </Lijst>
             <Al>Utrecht, juni 2020</Al>
           </Inhoud>
         </Divisietekst>
