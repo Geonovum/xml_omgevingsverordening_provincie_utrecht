@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/pv26/2020/OVPU001Ontwerp</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv26/2020/InstellingOmgevingsverordening</DoelID>
+      <DoelID>/join/id/proces/pv26/2020/OntwerpOmgevingsverordening</DoelID>
       <!-- OP-bestanden -->
       <Bestand>
          <naam>owRegeltekst.xml</naam>
