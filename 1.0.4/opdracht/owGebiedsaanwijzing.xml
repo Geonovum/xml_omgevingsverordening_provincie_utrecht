@@ -146,7 +146,7 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000178</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
                <ga:naam>Beperkingengebied beheer provinciale wegen</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebiedgroep/id/concept/Weg</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000085"/>
                </ga:locatieaanduiding>
@@ -159,7 +159,7 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000177</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
                <ga:naam>Beperkingengebied bouwwerken provinciale wegen</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebiedgroep/id/concept/Weg</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000093"/>
                </ga:locatieaanduiding>
@@ -172,7 +172,7 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000176</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
                <ga:naam>Beperkingengebied lokale spoorwegen</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebiedgroep/id/concept/Spoorweg</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Spoorweg</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000089"/>
                </ga:locatieaanduiding>
@@ -185,7 +185,7 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000175</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
                <ga:naam>Beschermingszone</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebiedgroep/id/concept/Spoorweg</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Spoorweg</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000092"/>
                </ga:locatieaanduiding>
@@ -198,7 +198,7 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000173</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
                <ga:naam>Beperkingengebied vaarwegen</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebiedgroep/id/concept/Overig</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000088"/>
                </ga:locatieaanduiding>
@@ -211,7 +211,7 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.20200000172</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
                <ga:naam>Beperkingengebied vrij zicht provinciale wegen</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebiedgroep/id/concept/Weg</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2020000000083"/>
                </ga:locatieaanduiding>
