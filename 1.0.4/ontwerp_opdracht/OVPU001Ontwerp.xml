@@ -189,7 +189,7 @@
                <doelen>
                   <doel>/join/id/proces/pv26/2020/OntwerpOmgevingsverordening</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/pv26/2020/OVPU001/nld@2020-06-09;1-0</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/pv26/2020/OVPU001Ontwerp/nld@2020-06-09;1-0</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
@@ -1106,7 +1106,7 @@
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
-            <Al>Vaststelling van Omgevingsverordening Utrecht</Al>
+            <Al>Ontwerp Omgevingsverordening Utrecht</Al>
          </RegelingOpschrift>
          <Lichaam eId="body" wId="body">
             <WijzigArtikel eId="art_I" wId="pv26_1-0__art_I">
@@ -1139,9 +1139,9 @@
                <Opschrift>Bijlage bij artikel I</Opschrift>
             </Kop>
             <RegelingCompact componentnaam="initieel_reg"
-                             wordt="/akn/nl/act/pv26/2020/OVPU001/nld@2020-06-09;1-0">
+                             wordt="/akn/nl/act/pv26/2020/OVPU001Ontwerp/nld@2020-06-09;1-0">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Omgevingsverordening Provincie Utrecht</Al>
+                  <Al>Omgevingsverordening Provincie Utrecht (ontwerp)</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Hoofdstuk eId="chp_1" wId="pv26_1-0__chp_1">
@@ -25820,8 +25820,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/pv26/2020/OVPU001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/pv26/2020/OVPU001/nld@2020-06-09;1-0</FRBRExpression>
+         <FRBRWork>/akn/nl/act/pv26/2020/OVPU001Ontwerp</FRBRWork>
+         <FRBRExpression>/akn/nl/act/pv26/2020/OVPU001Ontwerp/nld@2020-06-09;1-0</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
