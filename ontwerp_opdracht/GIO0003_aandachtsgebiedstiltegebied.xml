@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/aandachtsgebiedstiltegebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/aandachtsgebiedstiltegebied/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/aandachtsgebiedstiltegebied/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AandachtsgebiedStiltegebied.gml</bestandsnaam>
-                  <hash>5bfa95725bf85f6869dd661b1b08ff765b5004c323de59d50f8b320d0e0d7e9c43b4c5fb524f27f2182497d084c33f0e8fe4ecbc79aef8b93803d38e76362729</hash>
+                  <hash>ff40bf016ae1025e05ecb6e0983aa85155ad0b901cfe4ec46bd4c1c5ce98ce27a97ca15e8bf8a7644970ef0f8826817da4f90c63fb6c5b72b3f3a52f44f1cd79</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

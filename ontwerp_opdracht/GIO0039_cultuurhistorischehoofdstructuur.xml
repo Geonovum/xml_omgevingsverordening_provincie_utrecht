@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/cultuurhistorischehoofdstructuur</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/cultuurhistorischehoofdstructuur/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/cultuurhistorischehoofdstructuur/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CultuurhistorischeHoofdstructuur.gml</bestandsnaam>
-                  <hash>2bd5e45c044377578320629852db139993f1ba1157c8a2711be3654c42778feccd7f63ded99a13f75aaecc1d657c1da0b6d20a35ae38b20c8137d6e800d0ff2d</hash>
+                  <hash>ea85aff26583a84c708b65610143a0699597149bbd9a182e0b92776b8e18e8aca6dc627c9907ae7ba73e65cf3cfb2336e06c07756bae1cd14b75a7223753ef8c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

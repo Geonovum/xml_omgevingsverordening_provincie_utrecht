@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gebiedwoonschepen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gebiedwoonschepen/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gebiedwoonschepen/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Gebiedwoonschepen.gml</bestandsnaam>
-                  <hash>8731ffbc44e85c98e9608e86d2e1a65ad6d71037c40bdbab2ea998c2ca8bb2de25a3af69774b26ca6283584a130620a709f4a81d7127e48997339cd26153ad6b</hash>
+                  <hash>b6e283b2808e44d165b8bd663615721001647160324eed95cb3478cdcd2fc441f88112ba03b85d4c96c98fb00fce5fe68c889e3cd65d753bcee6ed96e1429d6d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

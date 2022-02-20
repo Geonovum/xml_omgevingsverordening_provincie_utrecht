@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/amstel</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/amstel/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/amstel/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Amstel.gml</bestandsnaam>
-                  <hash>1f521f9153291888da79bf11db81e7fd8d1c7d7ad95d7cd7af7a83b5ffd27515a7fb27c4bd0248c0cdf93db9275daacd52e4ab6d038cfff1cca7317f96d26944</hash>
+                  <hash>66f5347690ffd7829a622348eddcb2656c3636aa36232032014cff25233e9ca58d953285d59ab99dc517a88bd324e5c7d933bb90e05e4568302e2727b193f165</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

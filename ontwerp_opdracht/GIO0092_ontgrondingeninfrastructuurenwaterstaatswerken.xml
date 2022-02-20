@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/ontgrondingeninfrastructuurenwaterstaatswerken</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/ontgrondingeninfrastructuurenwaterstaatswerken/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/ontgrondingeninfrastructuurenwaterstaatswerken/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Ontgrondingeninfrastructuurenwaterstaatswerken.gml</bestandsnaam>
-                  <hash>eeffad09173a3d22093b61647d629d2341cc3d54666252f4f4b242a8b2a028e201af1163c0d727fccdee5bf63c816327ff8b4ff9b8c0e9f18fb75d836bfbb918</hash>
+                  <hash>c1568d25d13f172e90f91ccc11f0a1797b9f8fe748ecf221527db99c74237a78947ce1730ecb18ff3573f21735fff3704e2b428d5efe8ae50c7bcf3a99279dcd</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/drecht-west</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/drecht-west/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/drecht-west/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Drecht-West.gml</bestandsnaam>
-                  <hash>212324e6f835878378b2536c6bbe1f17ca845c87634a49bb3d5ba8ddccce404d5ee4c41ce717f61159dd31256d9c7bbb47fb4e127545bcedce625a0ea84783a1</hash>
+                  <hash>4944e3e8c00602a538cd6ef6d6d870f131fe90e26553b116de7dc20594f7601c335158ecf4d87ddb253bac177575ccead5d18b027f462f17fd8afc998e2aae8b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

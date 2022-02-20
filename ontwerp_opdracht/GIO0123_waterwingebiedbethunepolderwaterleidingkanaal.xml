@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/waterwingebiedbethunepolderwaterleidingkanaal</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/waterwingebiedbethunepolderwaterleidingkanaal/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/waterwingebiedbethunepolderwaterleidingkanaal/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>WaterwingebiedBethunepolderwaterleidingkanaal.gml</bestandsnaam>
-                  <hash>9893c2cfd14d91042b740dcc164b8d40a614398d90aa3e79efd51209c1f9eabf9bc49dd6f4d29ecbfa371c801bb1c096cbbf48ec7bd1e3d944ab89ba56c5b06c</hash>
+                  <hash>7513ad72bc5d59578c8fa578ac41bdde082bebc08d6af292c8f0c143ca60b664b37afe09d23bd640bcad18d04c526b4e2d66f228aae20c42691fdae9f0bf566a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

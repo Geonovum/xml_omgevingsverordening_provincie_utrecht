@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/reductielocatiesthematischestructuurvisiekantoren</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/reductielocatiesthematischestructuurvisiekantoren/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/reductielocatiesthematischestructuurvisiekantoren/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Reductielocatiekantoor.gml</bestandsnaam>
-                  <hash>f4762b38c6f7379c3fbc4b6760d6bd87abb539a41777fa6884ac9f34339e7091288fdfabaa1b9f0745a504c9a481dc47eb67bcaefa37d4f7c61330190accda95</hash>
+                  <hash>3d47894f4ee29020f02a8a3e60aeb3f4d871d43eae2a74f9cdd44422b19f89918f78cc3d5f11184974e2182200efb390bdc6fac517e9cb561dc84d4979fc4c68</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

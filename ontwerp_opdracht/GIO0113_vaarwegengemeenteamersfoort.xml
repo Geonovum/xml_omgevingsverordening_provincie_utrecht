@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/vaarwegengemeenteamersfoort</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/vaarwegengemeenteamersfoort/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/vaarwegengemeenteamersfoort/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>VaarwegenGemeenteAmersfoort.gml</bestandsnaam>
-                  <hash>6f0818a2678dfb0b254a5312b21fdf4bbbd4500e68210e73a9a34c51dddb1fc310650bcf02f8d0f9fe50a1f4e0fe2464244f0b97d8e718f8828bd47567b9dde9</hash>
+                  <hash>a376b55880ffae783c5658bca26007e13dab292ab98b8b39a1cf637425ec42583333b5858676001e2b1150e398340b002ccb2e8dda78d5857371a4815a35fb06</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

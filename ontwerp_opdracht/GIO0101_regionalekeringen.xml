@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/regionalekeringen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/regionalekeringen/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/regionalekeringen/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regionalekeringen.gml</bestandsnaam>
-                  <hash>24da50681723c1f738db97786f70353b32f41f6610dc0986b71e2d9cc7e212af02ec65f0e5c832d68bb196ae4d3e7c8da72083383a8da5389361bfb046c86f84</hash>
+                  <hash>c2cb0dc328dbcbf13282e7fdda687f4f23d4f3a2ffaca2b956fa07a4031584db249f36e1ffbc328c4f20d10b20e0da8a43c190af426552a9166b518a50fe97d1</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

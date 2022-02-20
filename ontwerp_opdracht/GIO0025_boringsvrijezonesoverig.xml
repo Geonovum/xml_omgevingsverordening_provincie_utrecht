@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/boringsvrijezonesoverig</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/boringsvrijezonesoverig/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/boringsvrijezonesoverig/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Boringsvrijezonesoverig.gml</bestandsnaam>
-                  <hash>bcb30f983c9835a56d648455da37d5831f9148b5741180aa9aeccd17314a9508e4d1b2a713f5290a2dd14802a3e667d2ee94d47c9b4ca021edd37187a9a216a7</hash>
+                  <hash>3808f760b12ba6849d6ef7b01b9f6530bc06a0d180b5499fa549c23fcdb47aedca681c63d41647efc7e71f2d96864e9aa47926c63b0cdbb7e069429e4ad655c0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

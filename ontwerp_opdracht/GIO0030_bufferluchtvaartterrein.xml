@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/bufferluchtvaartterrein</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/bufferluchtvaartterrein/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/bufferluchtvaartterrein/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Bufferluchtvaartterrein.gml</bestandsnaam>
-                  <hash>1e19ccbe1e6e22d612c96648e2e3c0760d196d228ffa191267452aa9827562cf67cafc0a61d0463e5a58c818d57c05201539467397908128040dfb3f7a1ceb09</hash>
+                  <hash>3f520b48b417b52ed1e047f05005dae141a0facda5bb3d69853d8d6b0a1ccf8ac20a0632d77a7eb4fff252dc28f9089c5001f195a35dbc5c79ed31882100e9ff</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

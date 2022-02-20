@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/boringsvrijezoneveenendaal</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/boringsvrijezoneveenendaal/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/boringsvrijezoneveenendaal/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>BoringsvrijezoneVeenendaal.gml</bestandsnaam>
-                  <hash>2952c2d1831ffb9eb35274d5bd92079c93886ddd4de98ba531336ce821505ab13f97ceeedc56e4cf4104db4d0f686e3c188960a7f33426c3c7a8cc057ddcf926</hash>
+                  <hash>67fc07806ca8c42f21a3b7ed09df2b0e7d2a1e92fa0b60d3a591051ac540a5ffffe9d75e1abb59a71c671d9aaf3e04cdb749cd4cbd4474488a286a4677ff1110</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

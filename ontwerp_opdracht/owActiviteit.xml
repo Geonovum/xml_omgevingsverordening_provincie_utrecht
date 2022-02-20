@@ -12,7 +12,7 @@
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0-rc/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>provincie Utrecht</sl:dataset>
       <sl:inhoud>
@@ -145,7 +145,7 @@
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-pv26.activiteit.2021000000009</rol:identificatie>
                <rol:naam>uitweg naar een provinciale weg hebben, maken, veranderen of gebruik ervan  wijzigen</rol:naam>
-               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg</rol:groep>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenSpoorweg</rol:groep>
                <rol:bovenliggendeActiviteit>
                   <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.topactiviteitOmgVerordening"/>
                </rol:bovenliggendeActiviteit>
@@ -213,7 +213,8 @@
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-pv26.activiteit.2021000000014</rol:identificatie>
                <rol:naam>gedenktekens plaatsen</rol:naam>
-               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg</rol:groep>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenSpoorweg</rol:groep>
+                          <!--http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg heeft een bug?-->
                <rol:bovenliggendeActiviteit>
                   <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.topactiviteitOmgVerordening"/>
                </rol:bovenliggendeActiviteit>
@@ -252,7 +253,7 @@
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-pv26.activiteit.2021000000017</rol:identificatie>
                <rol:naam>beplanting langs de provinciale weg hebben</rol:naam>
-               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg</rol:groep>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenSpoorweg</rol:groep>
                <rol:bovenliggendeActiviteit>
                   <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.topactiviteitOmgVerordening"/>
                </rol:bovenliggendeActiviteit>

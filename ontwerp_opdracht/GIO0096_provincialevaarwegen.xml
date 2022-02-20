@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/provincialevaarwegen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/provincialevaarwegen/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/provincialevaarwegen/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Provincialevaarwegen.gml</bestandsnaam>
-                  <hash>71f06277a73f8165fe8f82549fa7331e18056816adc5e79bd03da9af02a0f2dc6d8c68e0f968fb6e80fbd9ff455eed6d76a238f853329378dddd3faa24f295b7</hash>
+                  <hash>ea9d60311ff406175795e2b0148b02d2338ac8cc2b1ca22ebf34cfea987ae0bae8492f7cbafc1994037f1beb3de92f228cfe4371a5321ecda5be603dc23dc6be</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

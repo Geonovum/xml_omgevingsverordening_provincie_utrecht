@@ -15,7 +15,7 @@
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/pv26/2020/grondwaterverontreiniging</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/pv26/2020/grondwaterverontreiniging/nld@2020-06-02</geo:FRBRExpression>
+         <geo:FRBRExpression>/join/id/regdata/pv26/2020/grondwaterverontreiniging/nld@2020-06-02;ontwerp</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>

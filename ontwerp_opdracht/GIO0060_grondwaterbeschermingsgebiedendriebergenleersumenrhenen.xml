@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedendriebergenleersumenrhenen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedendriebergenleersumenrhenen/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedendriebergenleersumenrhenen/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>GrondwaterbeschermingsgebiedenDriebergenLeersumenRhenen.gml</bestandsnaam>
-                  <hash>6a72df8ee6e498f02134a3f22527e9b3013cab8844ddd5df1671fa4cd3240755a251ccdb772b16aa0e45283105c456ac1fdf692f44dc4666123e01131ddf0f39</hash>
+                  <hash>eb18d4bc8a7b1d3847e14b3fecbdba6a0b834799eedf3e4153109dc93f738c78e8cc90fa3e441b8eceecbc057afb30623f426a4ae4dafb0166b1e6e1f39292b3</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

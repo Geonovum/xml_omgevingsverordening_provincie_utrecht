@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/grondverzetenrommelterreinen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/grondverzetenrommelterreinen/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/grondverzetenrommelterreinen/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Grondverzetenrommelterreinen.gml</bestandsnaam>
-                  <hash>828812879c485d68b8e666a9febfbea28c98b0b6aca1a07f3ebcf12b15a748e6ee884ee3e79db2cd1cd87b8abf2b97839317e20b8b1b3173b6770be17f86cb95</hash>
+                  <hash>15c50a9186f1c0ff35e86bc01ad5b3f91946fed49048526c5e1b62579f7465822f1e56e78579b96de65aae73a88d9ca9e0f9dd6dc28e1c8ebe75637f9b080e9d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

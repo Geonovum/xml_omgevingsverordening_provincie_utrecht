@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/kernrandzone</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/kernrandzone/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/kernrandzone/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Kernrandzone.gml</bestandsnaam>
-                  <hash>f2a20dcbeb5fd4994221432440f484d2bad4592d143d710485ed887efb4c8cbf04ab96ec121a87be1e5f5ad215d5827a47f604e01cd27b8b2d21312705c0f537</hash>
+                  <hash>6dd210b92664f73a2858bb359a930380e20459e26cecb55dc55735935dec9c05ade15be6b3852920cf1083e908622f2d7e483d10a6550c45ffe61e3aaf2c00fe</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

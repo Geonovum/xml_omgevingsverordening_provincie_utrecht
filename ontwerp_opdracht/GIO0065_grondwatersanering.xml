@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/grondwatersanering</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/grondwatersanering/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/grondwatersanering/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Grondwatersanering.gml</bestandsnaam>
-                  <hash>91ff6f661f9eda8e741dc0ada937de0223bcc90a8a0e8ac85042261c13c2ad462bf382651ed03ca96e47ff9037df5eb1c42116ed84a639cb8514dd6e6b6b63b1</hash>
+                  <hash>b0ef05a279f0aa9b523f65b72f5a06308a92c8ea30382f559d0017e9365da21e3c352928725f78b6e013f2d272d05c8a56a050d3e7f752f7caebdb24d2f79c2d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

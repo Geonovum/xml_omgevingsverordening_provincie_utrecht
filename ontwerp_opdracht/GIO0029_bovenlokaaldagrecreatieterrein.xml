@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/bovenlokaaldagrecreatieterrein</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/bovenlokaaldagrecreatieterrein/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/bovenlokaaldagrecreatieterrein/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Bovenlokaaldagrecreatieterrein.gml</bestandsnaam>
-                  <hash>20559c7a9cf2a42c0f95b32d57f4e97f571a1f5b42c0c8017a22b42dbb0240283cb5d1332242cbee58de9744eb7a5eeffbfcd82c8c713318d5018888195ecb5c</hash>
+                  <hash>72538ac1499d6727a0a6f5eff0fcdb5fe4d495a00f3fe050020c00997237c061f9656762dab1d588906accb747ac3d3c0885c7578a3392023d888768f6e31f7d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

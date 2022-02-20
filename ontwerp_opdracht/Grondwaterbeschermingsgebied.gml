@@ -15,7 +15,7 @@
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebied</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebied/nld@2020-06-02</geo:FRBRExpression>
+         <geo:FRBRExpression>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebied/nld@2020-06-02;ontwerp</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>

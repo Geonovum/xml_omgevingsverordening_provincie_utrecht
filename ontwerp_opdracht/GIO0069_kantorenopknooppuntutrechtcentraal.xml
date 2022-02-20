@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/kantorenopknooppuntutrechtcentraal</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/kantorenopknooppuntutrechtcentraal/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/kantorenopknooppuntutrechtcentraal/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Kantooropknooppunt.gml</bestandsnaam>
-                  <hash>f7eb4173f8828d1f334cd11e38d5c60d4e453adc13d1f06a7fdc410f722e5a552ff9b223911a7c02ce01cca970bc1e9d35a1fa95e18213ae553b0cce23f1e923</hash>
+                  <hash>e01a3d685bad8dfd786040de68f7b1623792326fb168986c1000342e67b0fc5cd5f54195416508839660b9abf2e53fa57eae98e4213ec1e766f46d619431e968</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/linge</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/linge/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/linge/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Linge.gml</bestandsnaam>
-                  <hash>7a7939fdac8fc9d0853d9d605cfb3b46e3fa691c8926f39d08b5743e63d70aadb73f5617ca50e42017a25602eda62a9fb28a1d72322e2f9ea55e4b1776b2cd5c</hash>
+                  <hash>5da1f24ee9caff3d65306fe62c5907b6b78e89483e314ce173df260b17a7db7918f02cb92f8b151392e9f3e6d2e7df9829754822f7316fd69aeb04f10c698db3</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

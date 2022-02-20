@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/landschapgeldersevallei</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/landschapgeldersevallei/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/landschapgeldersevallei/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>LandschapGeldersevallei.gml</bestandsnaam>
-                  <hash>c1dc41cda0e9df6cfe7e90ade0afe773f5d625252c2c606f3161c2fae66dcff5fc3c4aa09b1192d6d9bd9fe1269a22619a1234bed978c029359e622a60a50a3e</hash>
+                  <hash>4d67eb52b8b0546f692a38fcc73b09b4b3e4c071bd4ec07a2f8e00f44e4c9ce2c5fe0b357cb6ff5cdbeedaafa7ceaca39af2109e4ad39df3a54a0a7348939976</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

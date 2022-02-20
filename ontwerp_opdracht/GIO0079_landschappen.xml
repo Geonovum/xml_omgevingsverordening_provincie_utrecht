@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/landschappen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/landschappen/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/landschappen/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Landschappen.gml</bestandsnaam>
-                  <hash>758ffbb37f06ebc2bb00ec828095f6e8d8671eb6d2e67f9b99fcae09b342d770e950a3ec0e6dac1c0c9b9df704c71ae379443155f0bfcc7e12116c41db81be51</hash>
+                  <hash>5475cefa4f512b2afa150cb7a38ba3da191d53a523df924f02115b2264dd4e1302166bae05782c945bb835e43b83d98b90bd4465f15958a64d8da0e742de5453</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/sevesoinrichting</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/sevesoinrichting/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/sevesoinrichting/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Sevesoinrichting.gml</bestandsnaam>
-                  <hash>b807ed5e44d2f06dc71cfa286caf0b69e1fe78d04072effa5340df50f11bfc8443e92926eff4621e23d2818ce5e6ade7b37d3ee5d14b7ef1c7541cd48d1dfbad</hash>
+                  <hash>8316ccc29985996f095ef7e31223ef4d5f580df2875e09e9c7254f979b64ba8bcc91cf1429979159bc5247cb3a78f5e664ffa119b5b697eafa3a6b814dc65762</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

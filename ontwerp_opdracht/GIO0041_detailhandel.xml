@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/detailhandel</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/detailhandel/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/detailhandel/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Detailhandel.gml</bestandsnaam>
-                  <hash>2a15645308780c257b4bfb8af39d4f619034e94fcffb2d1b7e0d73b1655a3e72b00a612be509c23aee916d51ea274811d099bbcfbce2a129a78bf3b61ab392c0</hash>
+                  <hash>8d765013741fdc25348803c60d6919a091694169dc46556c90f868f31e61667ea83ac3cecb17abf19ef55b2bb2daa6694f9d8a43099058accb4d4851d286196e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

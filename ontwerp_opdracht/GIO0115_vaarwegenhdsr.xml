@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/vaarwegenhdsr</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/vaarwegenhdsr/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/vaarwegenhdsr/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>VaarwegenHDSR.gml</bestandsnaam>
-                  <hash>f69928d8a3b33397f9e66077d0315d690cb8e753c648a8ee255a2687330105a68a6eb764f108a78f4f8dfe7c5edf1fbfe6ed506589a97247792925c09e6d151a</hash>
+                  <hash>867ca2d23e50d7149eaf67791907b24196c1dd6ea010345a477c06a57956b3a2dae59664d5e16f453fc7bf721f4da87a06e0fb0816e9ed2bcea26d2e389d25a9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

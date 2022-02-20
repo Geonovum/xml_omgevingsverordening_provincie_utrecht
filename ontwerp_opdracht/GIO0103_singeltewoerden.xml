@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/singeltewoerden</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/singeltewoerden/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/singeltewoerden/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>SingelteWoerden.gml</bestandsnaam>
-                  <hash>13180c808e6b613dd5cf4a37c23d4c4711de60419d1667d31e199173c2e63761722b896aa871ea834b27d7e11d9d48c2a2265edca2b4713fd2637a9c48c917a7</hash>
+                  <hash>b6e4bd536c8349f1f8906aa589dad84487cf1db6b6f467683191c5b798a4d2b036bdc168edb36825b363a5ea1dafc835a2267c50b992f4ac58a66651237ddb99</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

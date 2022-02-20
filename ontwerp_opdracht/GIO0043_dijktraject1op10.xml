@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/dijktraject1op10</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/dijktraject1op10/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/dijktraject1op10/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Dijktraject1op1x.gml</bestandsnaam>
-                  <hash>9b398f66a21d16f1247d29228ea20107059f9cde123766e13e208b811cf8aecbc313ec2fede8f4cf1f2fd6399e763734196d6e892088aac76f65071c9ab14c0c</hash>
+                  <hash>4322d4eb5ab74b53540d6b456e10b0daa4cb5493c88ea8a7ed4143698ebd8cb4baf691ce08fa5805d90c895e96ad90203cc07f148c7926f2325ccb5b38353b7d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

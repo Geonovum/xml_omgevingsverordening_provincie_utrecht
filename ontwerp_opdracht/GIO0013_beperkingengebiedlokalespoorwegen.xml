@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/beperkingengebiedlokalespoorwegen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/beperkingengebiedlokalespoorwegen/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/beperkingengebiedlokalespoorwegen/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Beperkingengebiedlokalespoorwegen.gml</bestandsnaam>
-                  <hash>afafd7f0d576e282adffb3b95a0b84fc676eaf5a423fc5500826ba26f7e46b61908e87ec1c9356191be94b305aead082031ec6e586d9977a33bc211c14871a70</hash>
+                  <hash>7e2eb507a0604e7c9b92d4e58e61a0482de04e29f4196bf21014170ae7a310d9f617a9355b4d566b314412bc450b3dfbb38ce613f27c329727b623753dc4f5a1</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

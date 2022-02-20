@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenhollandsewaterlinies</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenhollandsewaterlinies/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenhollandsewaterlinies/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Voorlopigelijst-UNESCO-HollandseWaterlinies.gml</bestandsnaam>
-                  <hash>00c0eea3e2283c1cdb659b98e0cd5ed2d37dc55f28b4f15a257f22008f7a686aaab8d80883f6aaeb161f8d7efdcdeeea349046bc09deaec415ed4b55522584ba</hash>
+                  <hash>8f8e45eec07433b089e9200f4d58ce9302126fc1f077e8f922bd1b57e82d1a93090409dfcf63fcf5c0a6a6a1621a743c5a0717b1e0cc4e53ac86348235127f25</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

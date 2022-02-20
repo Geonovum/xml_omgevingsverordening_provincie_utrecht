@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/uitbreidingwoningbouwondervoorwaarden</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/uitbreidingwoningbouwondervoorwaarden/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/uitbreidingwoningbouwondervoorwaarden/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Uitbreidingwoningbouwenbedrijventerreinondervoorwaarde.gml</bestandsnaam>
-                  <hash>d9723321a7d3c7dea065482879909b57022b11773ffba31caf965b69a80a6ae38cc46c5038a1b1710c415d4a887196ee17d754a411c7e342b949151e9c297053</hash>
+                  <hash>1ca59853f5a80ce352770816b25d73022dc2f12ca366f185990163e044be8602390994ab60ecf81fe79a2c2ede6afd44cd0060b2e2970152cabe80821492c0db</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

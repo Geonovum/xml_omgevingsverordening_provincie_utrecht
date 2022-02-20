@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/ganzenrustgebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Ganzenrustgebied.gml</bestandsnaam>
-                  <hash>e114cfbbd20a1a6837952c18b6cdb1bae4c6f518ba99658051cfc95c01883b379c1eded9f99288bf928647c0f1f0a4fd3c31e2751bb0bd9e823728699e5e005a</hash>
+                  <hash>5516be348bf991c951bc93958e3bcce49cdaa1ae231f80088a132eb9147d9cf06288794f424c58de9daa700697cd63dc7a69d0b6f711667b14c15b6e07300bf0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

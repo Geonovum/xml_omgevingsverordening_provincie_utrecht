@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/historischeinfrastructuur</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/historischeinfrastructuur/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/historischeinfrastructuur/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CHS-historischeinfrastructuur.gml</bestandsnaam>
-                  <hash>1e35a4c8ad32ba3dbc7caee133e5c1be597d6cd165320a18a64cfd12897ee269b5f3e17342572a11331183a53df0f97729d325433dedb4ede5125321defe3d4e</hash>
+                  <hash>e7e70d1acfe5726c56b2ed5f52027e9b9f229364e3ef182c6a9f61c89b9099413988e06f41c27668bc8e62d09dd2aa1a018faac3b7750bdd7460b658a803e375</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

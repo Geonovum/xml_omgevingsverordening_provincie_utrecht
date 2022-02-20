@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/waterbergingsgebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/waterbergingsgebied/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/waterbergingsgebied/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Waterbergingsgebied.gml</bestandsnaam>
-                  <hash>a9e6405a56baa8a176a5c21fa2f035768f89a80eb7f5f24ae4baabc88e70aa2d0b75c52cfb1694c66068b2161eeed366a74cc149fc361a077c0958ecfae40196</hash>
+                  <hash>af0b3d03335c745177c08d4f7950225914ac1a4d4a9fc7208c3a519ffd8ccbca1996bfe6637c5fd88a929854d85de5b261210a69d7bcd081a0f04cdaf7b72b0d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

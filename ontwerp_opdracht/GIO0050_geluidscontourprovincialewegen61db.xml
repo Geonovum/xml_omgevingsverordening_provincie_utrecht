@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/geluidscontourprovincialewegen61db</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/geluidscontourprovincialewegen61db/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/geluidscontourprovincialewegen61db/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Geluidscontourprovincialewegen61dB.gml</bestandsnaam>
-                  <hash>dde1160c53d5a0c7ce1ccb2a2c019dc09cd0cc99c966daaa0ae5952df6c0308edd5ac85fbd1a5b37cc9694b211aca337391ad71103774e92b2850b2c8efc8375</hash>
+                  <hash>2c237af2fa3afbed82824d5d082c73b0b2ccc5ea09457940eeca055735850f6a82492b99f7f4eed106b1b7bd1bcc876c5a0fae7519ecdca192ea669fbb87669f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

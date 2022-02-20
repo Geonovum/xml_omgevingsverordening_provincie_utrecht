@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/luchtvaartterrein</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/luchtvaartterrein/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/luchtvaartterrein/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Luchtvaartterrein.gml</bestandsnaam>
-                  <hash>f9b165c0845215331262bb38425d0045c1e77948ff51261431a6bb690fa7c044f9364cd92f91b870f2729ade7060c09451225954c0a595a070f96607d9694ac7</hash>
+                  <hash>8de79561bfd3fb5653050b0effaa8438613f7167660a2c20d620c63dde99d76d29963f63f637bd4d196a852414160c840dce1a5478b8952ff5a8ac99b45b0b71</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

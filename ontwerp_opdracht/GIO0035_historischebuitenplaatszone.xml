@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/historischebuitenplaatszone</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/historischebuitenplaatszone/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/historischebuitenplaatszone/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CHS-historischebuitenplaatszone.gml</bestandsnaam>
-                  <hash>476687e161fa946a8459737085f215ab2abb5114503176a12bbd60b652e0e9d93d863d894542af959b2169a2af2bb03a233db94c444f2af8aca5000c97c9ecd0</hash>
+                  <hash>92ed5677161f9da773f4b57206632ddc43adf9345bc5134ec7fe96b9ea9214717fbb1a1ae5879668ca0ef8195a6cade7f83a2a554478f31e48f79bca1846e2da</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

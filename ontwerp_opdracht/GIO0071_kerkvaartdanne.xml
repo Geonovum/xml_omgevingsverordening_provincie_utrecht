@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/kerkvaartdanne</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/kerkvaartdanne/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/kerkvaartdanne/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>KerkvaartDanne.gml</bestandsnaam>
-                  <hash>3e8fd4cee7d33f18363e9037c0fd3769a03c77409646ecccf05ee0d2ad19dfaefacf8b4c8484d87bb02bd9c3c894bc18ebe672064b7e8ee850dfc529f0a7775a</hash>
+                  <hash>878216bddb67ef18bf9325013a9b052af1e5181617beb1780fb9a29c0d04339959a1a6ae18f8896d89768b8e5371830c73376af551a53a145fee2786671e919c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/waardevollehoutopstanden</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/waardevollehoutopstanden/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/waardevollehoutopstanden/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Waardevollehoutopstanden.gml</bestandsnaam>
-                  <hash>1ee378826bcd0284b66f376fda2014a22393da50abbe98d4ee7789b579d60e0ac7102ea0cf0173ff2d6a111f4f689dfe7bd8bf6f4a78cf0719f5f55b902279de</hash>
+                  <hash>d90deecd2b10868571de06e801dd7de2c2ad71460ae3b77d6e08bce22c9a80ede306e37a81bbf7326c2f7089d4099d93b9a31594f438d8faca45fc1432ae945d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

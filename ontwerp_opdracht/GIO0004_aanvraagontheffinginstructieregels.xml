@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/aanvraagontheffinginstructieregels</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/aanvraagontheffinginstructieregels/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/aanvraagontheffinginstructieregels/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Aanvraagontheffinginstructieregels.gml</bestandsnaam>
-                  <hash>685378970ffc035d7db0aaef956b1d6430d8d7e3c2ac17ff392dad0e0b6b9233c33be0c70eac860304e2dade3c7502765690dabb477a6fb6f70d25d7d082439a</hash>
+                  <hash>ce750cc414645d712f6f7c417f8687feef3e5f206cdfdee9827a8d0cab5ae2e65cc38f513a03e0ff7a85c5c72f1cbc6f7e0bb6e5e2a8b1676fbaeef65a777f77</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

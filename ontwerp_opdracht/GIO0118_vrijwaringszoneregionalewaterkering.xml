@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/vrijwaringszoneregionalewaterkering</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/vrijwaringszoneregionalewaterkering/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/vrijwaringszoneregionalewaterkering/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Vrijwaringszoneregionalekering.gml</bestandsnaam>
-                  <hash>e98f6b876c95e0e88dd021c11acbd8ede2843bc66e7195e82e24910285f65ac3c13a43ceb008bdb55f1293e7900eb76d4af1e8c20091ef2034750b4a645ca8e1</hash>
+                  <hash>0223b03a325833f9968ab3b7f2c0a5261723b4e4179776bc787705242348ac35ebb53436217860e2579ae6539c799265e6f198fe7b81bccc8e5cf36f91913b53</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/vaarwegenagv</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/vaarwegenagv/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/vaarwegenagv/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>VaarwegenAGV.gml</bestandsnaam>
-                  <hash>563da38898b30204a4a45948c8fd93daae4c9b363a9f6e9275c2d4f3d927e15c90db19fa6046c553f57f0e01e02be3c9dcbc32e48a1c3cb78eeff5cb923236e1</hash>
+                  <hash>2fd2ab2606997d2fcb0f0cba03cf0df741c5115f7dfd853b55aee07e59af880300fecdb06dac9c5d0e9d75e71bcc7abd9b4c80b67ea2161ae2eca70cc99b4275</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

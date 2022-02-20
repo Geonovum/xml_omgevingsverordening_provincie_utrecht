@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/boringsvrijezoneslangerakenlexmond</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/boringsvrijezoneslangerakenlexmond/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/boringsvrijezoneslangerakenlexmond/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>BoringsvrijezonesLangerakenLexmond.gml</bestandsnaam>
-                  <hash>41bbc1edb52f79078b9596b0e7f92805bc05c084950a9c89020fb169a9e2a82655d684fcb8f995dd7f89cea97d2a4c338ff68ac97b0e1024409e3e3e77c01cd0</hash>
+                  <hash>01b21ec25500d4165c2456b7e39c9e307c46505b79c987a3e32d439c06e5a0daa055c4abe71ee21137e30edbf801ea7f48472b4b6cf5867d6d69d8aa8909c89c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

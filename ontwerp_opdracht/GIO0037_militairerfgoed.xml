@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/militairerfgoed</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/militairerfgoed/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/militairerfgoed/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CHS-militairerfgoed.gml</bestandsnaam>
-                  <hash>9363f5fc7b7792dadbac9dcb80eeb63a40f26a6e03eee51f27a108f5b86fa7058316d05d05af38bbf32a427ecbb1373ffd9bd488896b0e3850bbc1cac431f40a</hash>
+                  <hash>7369a5d07fbdf24bd0fdc06a559c9fff727599827f69519314f0b46145562b2eb0a863ebf8df887c0be038cc61b73914bdb2a3888e19c3529b708fa9e3609f50</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

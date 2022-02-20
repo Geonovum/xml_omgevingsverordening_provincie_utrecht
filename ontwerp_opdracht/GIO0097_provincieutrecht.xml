@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/provincieutrecht</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/provincieutrecht/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/provincieutrecht/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>provincieUtrecht.gml</bestandsnaam>
-                  <hash>e7dd41f060c8359d9ea95c7b876f14f1c16f73c28c942e7d822cdd38bc3a0955fd99190f50e9f7a13e3e7c173ecb76b77a1a6e62af8c6085d9480d82e0892236</hash>
+                  <hash>6e97ccde77b673526caeabdd655d057476431166c6a19f03f5fec70a937d541515d2587d88602663c2e1d7f875468da901b0734835472b429853590017f95fe2</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

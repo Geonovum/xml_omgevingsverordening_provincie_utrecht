@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/binnendebebouwdekom</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/binnendebebouwdekom/nld@2020-06-02</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/binnendebebouwdekom/nld@2020-06-02;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Binnendebebouwdekom.gml</bestandsnaam>
-                  <hash>2564180aab5c232b0ac6044856c90022fee19f57424e73dc9fdc341074502fcc4d63c65a7a3f1f6f1aa362b19000f9b29e68d35572fc11c632f7fd03556df4a4</hash>
+                  <hash>2853c7ae5c77cd4b3dedb8d8befb5ce4a79e1d9bdcd44f44034c7ca7f23be9011b473596b9607940502fcbd3f8a8784f9d2ec9c1117048b5bd66c815fb23e1cc</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
