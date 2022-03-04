@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/transformatorstation</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Transformatorstation.gml</bestandsnaam>
-                  <hash>23df3ff700c97b4dc82d406cf39cc885bb87c29f0e965e74426426eea0e488ed13704fbd63493ff5c8c78e536316f8c339f9ee52058eecb86e8dc6ee6624162f</hash>
+                  <hash>68583b9533a4f4fe86ba5152da287c7c9721dd62926663d53c87220783bcad190b2e01e8b94557947689477723bd4e8bcdd249ba5f0116ab38ca018f59ce9f1f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

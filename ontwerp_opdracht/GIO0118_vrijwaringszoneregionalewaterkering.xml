@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/vrijwaringszoneregionalewaterkering</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Vrijwaringszoneregionalekering.gml</bestandsnaam>
-                  <hash>0223b03a325833f9968ab3b7f2c0a5261723b4e4179776bc787705242348ac35ebb53436217860e2579ae6539c799265e6f198fe7b81bccc8e5cf36f91913b53</hash>
+                  <hash>08f902ba656579901539f6537b79bcdf4c3d5e713d130696f93f9246880b0c051d99a421e339a5ff45ba8f6323ce8cc77a6c8b026a16b45e6a5c72fcef68eaed</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedendriebergenleersumenrhenen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>GrondwaterbeschermingsgebiedenDriebergenLeersumenRhenen.gml</bestandsnaam>
-                  <hash>6a72df8ee6e498f02134a3f22527e9b3013cab8844ddd5df1671fa4cd3240755a251ccdb772b16aa0e45283105c456ac1fdf692f44dc4666123e01131ddf0f39</hash>
+                  <hash>9a959844f495de33d0e618a16977485be55cd2aca67190f346dbcfa120dc521731ae25917a1b016614599d5cc61bf45ecbcbc796b3f10570d36c74ccf0e083b9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

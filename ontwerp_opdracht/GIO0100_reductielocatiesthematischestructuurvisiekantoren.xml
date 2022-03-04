@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/reductielocatiesthematischestructuurvisiekantoren</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Reductielocatiekantoor.gml</bestandsnaam>
-                  <hash>3d47894f4ee29020f02a8a3e60aeb3f4d871d43eae2a74f9cdd44422b19f89918f78cc3d5f11184974e2182200efb390bdc6fac517e9cb561dc84d4979fc4c68</hash>
+                  <hash>2569cbcdd942fa2e99d5ea3edc0c1502153f62869abe49ebbc57f78f2bfb6b5bca6d241ebea1c2a1235f3a4c9ba0a1fec5127c56c870431887dad5ec710bfd67</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

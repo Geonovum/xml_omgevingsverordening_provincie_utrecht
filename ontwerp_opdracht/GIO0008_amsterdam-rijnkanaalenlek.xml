@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/amsterdam-rijnkanaalenlek</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Amsterdam-RijnkanaalenLek.gml</bestandsnaam>
-                  <hash>3c7b5f72f41a1802e5edcdd96b5dfb2e46eef298eafa4c38894ed21bd37c274f36564eb9366a0fcf288e7d87921c8d5b32a76f1b82468780c3c6d3194392ef3b</hash>
+                  <hash>e4a647b56e59e3146be4cc80cdc449acfc139b1683634a3a96547f6515031f36a20047c03e3a1dc03dbb143b48e35facedc8e1d5b1fb632fc649387723b51895</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

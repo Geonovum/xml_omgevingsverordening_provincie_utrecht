@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/aanvraagontheffinginstructieregels</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Aanvraagontheffinginstructieregels.gml</bestandsnaam>
-                  <hash>ce750cc414645d712f6f7c417f8687feef3e5f206cdfdee9827a8d0cab5ae2e65cc38f513a03e0ff7a85c5c72f1cbc6f7e0bb6e5e2a8b1676fbaeef65a777f77</hash>
+                  <hash>db641da1cc3c17f1987f1cfb9f50a31af5363baa153d778115a426896d7ad7b0d1bad939285ff9a6d9b6ddb306b27daafa8ee5f1b349ae0a284d2edf60c9fed4</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

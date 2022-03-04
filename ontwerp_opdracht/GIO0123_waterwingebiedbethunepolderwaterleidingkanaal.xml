@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/waterwingebiedbethunepolderwaterleidingkanaal</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>WaterwingebiedBethunepolderwaterleidingkanaal.gml</bestandsnaam>
-                  <hash>7513ad72bc5d59578c8fa578ac41bdde082bebc08d6af292c8f0c143ca60b664b37afe09d23bd640bcad18d04c526b4e2d66f228aae20c42691fdae9f0bf566a</hash>
+                  <hash>becb10f163e588f25b8926a71a3a9fec5c6f176eb8fe907b1e954eb56ece70a520ef90a5df1f704c6640ffab1650e224fafc139c6d8980959c4e7a839470e659</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

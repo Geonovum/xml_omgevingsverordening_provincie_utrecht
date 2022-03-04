@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/windturbineskleinerdan20meter</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Windturbineskleinerdan2xmeter.gml</bestandsnaam>
-                  <hash>89875d9c4ad94b9d8b6ce9c975667411e9aefddd8e26cbc15772cec934246afde8b8647fdaeb7a8cb476bd1ffd07326a551334303954a27f3a231b84a1a438c0</hash>
+                  <hash>287d7396ed61fd8f178d0f12ad0d3417db02a760505085b563f4567867ec75f7a3554c122790fd48c401656662628b9cbb166f300641587251af66399c9e5702</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

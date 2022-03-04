@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/energie</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Energie.gml</bestandsnaam>
-                  <hash>31ded457f8b6e2cfc12db22ce110cf893fa6f2ec9b7a39be05e11b82a733776475c3e219ee0674e2f1688a75843b4f82b911e30774f53ec1ef63beaed2338c24</hash>
+                  <hash>39a286ba659c5310cd3dd904e876ea9656e84fc6812fb1d14f0453378f229b49d1e7a414d6b40062c8eb284dfde99d3eb2f4b46ae8b35f2e61c5232c1ec5720a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

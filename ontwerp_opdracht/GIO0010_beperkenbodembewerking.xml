@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/beperkenbodembewerking</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Beperkenbodembewerking.gml</bestandsnaam>
-                  <hash>8f2eecc0e8d2a79fd048f13a7b24ade422ae688f8d70c8c9e5c03fabe2a0eec03c1fb0205a3e6c85578ff8e6f6f29d872ee5a4ea84faa925d7049a93d228551c</hash>
+                  <hash>b9f0369edb94bc11d7416beb939de4d23925e72b8a82ba3678d20c31fc22bbf0cc5620e1396f8847ac493069956feb87f8aeb9fbbe3921bd20ef4ff8a793db56</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

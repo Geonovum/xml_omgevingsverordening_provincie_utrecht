@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gebiedenmetbelangbiodiversiteitaziatischeduizendknopen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>GebiedenmetbelangbiodiversiteitAziatischeduizendknopen.gml</bestandsnaam>
-                  <hash>4635f13f13a8140e6f4621a3bcb9088c93b53d47ff4e4b05c6a00765d61d98e2eec18fd62e8b2d1ac6913f3c352b9e52bcfb3fbfe9ab4955601be75b90eec775</hash>
+                  <hash>ec1f4e874176c35bac99b81604cb068f991043905a6237f9ddcdcdd850f93980655fc2e5e5af8854053e6f63157eb6ed88169869cbc87c8115c10b0319745728</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

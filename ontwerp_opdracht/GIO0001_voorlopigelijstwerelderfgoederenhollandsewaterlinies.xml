@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenhollandsewaterlinies</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Voorlopigelijst-UNESCO-HollandseWaterlinies.gml</bestandsnaam>
-                  <hash>8f8e45eec07433b089e9200f4d58ce9302126fc1f077e8f922bd1b57e82d1a93090409dfcf63fcf5c0a6a6a1621a743c5a0717b1e0cc4e53ac86348235127f25</hash>
+                  <hash>8d18f5aed4271fa74400088691129942b1d24c410267bbdc3e3ed75346a26c7bc9d3628384f47f4d70b2c30d84396d66c6a7bb3978774d2ac9082cef560283f0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

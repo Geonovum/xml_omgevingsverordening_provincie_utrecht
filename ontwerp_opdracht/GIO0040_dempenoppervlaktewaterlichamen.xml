@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/dempenoppervlaktewaterlichamen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Dempenoppervlaktewaterlichamen.gml</bestandsnaam>
-                  <hash>db766f6ed3b46228f7f883cf43a7bd89df2c95620a661b72687a07e44463ba76a1f03f76aa0a9149c6475801e5f12d47da48afeca064fbd88cc4e21b0bf0acd6</hash>
+                  <hash>3ed8c2d5074fa73aa77d36a183244712d7dfe5b7beaf8b4867ce1aa227bb3cd66bcca7301a5dd2d14d5c7d533783777fc9950537d9823639720a1780fd1bb965</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/luchtvaartterrein</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Luchtvaartterrein.gml</bestandsnaam>
-                  <hash>f9b165c0845215331262bb38425d0045c1e77948ff51261431a6bb690fa7c044f9364cd92f91b870f2729ade7060c09451225954c0a595a070f96607d9694ac7</hash>
+                  <hash>f493c902dd9442d3a498ee588f933b62f8d3bc8fff2cf432e96e3c06df86ba8af93956c8ec352f3c57ce30dd0db5dcf73ddcabc6115d77d86406cb579755c46c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

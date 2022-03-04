@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/beschermdkleinlandschapselement</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Beschermdkleinlandschapselement.gml</bestandsnaam>
-                  <hash>9f9afc2c340e6e184b0903eeac58db3e8f24385bff26af04db936db0f4e87d68d76d0244db8bd73048b602409ef081cbd48d31477749a8746ade81d2807f6a41</hash>
+                  <hash>c5e5363a3eae00ebc0028ef67e7302dab299ef2ef28612eed6522ce7a9a58c292ef1adddd08f79ba9a0ec5eace3bbbbc2412df986c73a15751c2ca1e1302cbd9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

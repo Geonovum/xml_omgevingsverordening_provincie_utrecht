@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/matigkwetsbarestrategischegrondwatervoorraad</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Matigkwetsbarestrategischegrondwatervoorraad.gml</bestandsnaam>
-                  <hash>5aedfdf0a2eddde8fea537ead409a14973bddcb64b2e296d728ff5f9cc71d095d903583f6be92e4a8b672696bc44899b8df45ea630b15de6d5fdf6f6bdc11b80</hash>
+                  <hash>8b3b845f9618b6a1794c284413914a4b6a5f54345c5590b75e43426bc2be5275bce753934502aa8e77a8c24bad854704676e1eccfbfd6f40b8a6e82002f9bc21</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

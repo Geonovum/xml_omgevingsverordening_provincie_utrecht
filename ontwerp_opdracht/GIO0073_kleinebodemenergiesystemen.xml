@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/kleinebodemenergiesystemen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Kleinebodemenergiesystemen.gml</bestandsnaam>
-                  <hash>622568524b2ab3b3bc3e705db364ff9e3b99037e594e2ce1ee9d7edd1933653d5340de82cf6dbde200afdc642113eddaa6631891dba91b0fdf0974cc7296ab3e</hash>
+                  <hash>d7edee9faa0e6ca0012a1ff1c59df2dbdacd91d9c8ffe25b07b9b234c332b473054325a8b7c652aca53eca3206b0d662f60ad2e80dfe811c8427a8cfc73aee84</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

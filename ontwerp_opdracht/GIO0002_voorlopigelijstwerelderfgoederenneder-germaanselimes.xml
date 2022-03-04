@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Voorlopigelijst-UNESCO-Neder-GermaanseLimesbufferzone.gml</bestandsnaam>
-                  <hash>b088891340dcf557bf6d23bd8022a9bd9c2b940ff85aaaa307026e7111913ce355b46e0f12bf3222a8e99b818e9961d4e0ad027132098d7913fa98e47a822ecb</hash>
+                  <hash>5d2187af7732355c0282364082bfc5392f8722adba52ef0f8a81573c2219b30f02c29128c1f73f53e45f47b604803e89b05ac62c88c63e81db42b563b5848911</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

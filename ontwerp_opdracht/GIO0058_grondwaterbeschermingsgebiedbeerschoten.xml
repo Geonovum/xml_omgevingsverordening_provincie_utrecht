@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/grondwaterbeschermingsgebiedbeerschoten</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>GrondwaterbeschermingsgebiedBeerschoten.gml</bestandsnaam>
-                  <hash>a1cc504fe3017bc70f18440338335a2ef39dd08658bb46e159848954ffb6a50a0478cdad65344e70867c3005e4f14d5173ca58a22091f00a656638c360d97f78</hash>
+                  <hash>6eb641982a143e193b1c181aae5451f434af56b8c1b8469c91fffb2eacebf18ed09ced7b5c2832183bfa58391f13273a1623148992044a890dd4ab85a73b5a00</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

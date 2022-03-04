@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/provincialeov-netwerk</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>ProvincialeOV-netwerk.gml</bestandsnaam>
-                  <hash>3797417d2bee36118c5c63c309101c4a44b17e878b853f4b7bbdc03f45817080d0590ab8ce2c1c4c824df1d4180ca54eb5bb9d3a578d791005ed5e543db612d1</hash>
+                  <hash>4485d946a99c9598f14c99ff1c33a49ecf1ac18f9118fec33bcfef02ec19f40297de3e77647259f8bdc10bd71d8be3b8ecf51f614149a09ec6c1bf9fc69e0206</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

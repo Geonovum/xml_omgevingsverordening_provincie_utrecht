@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/bestaandwinkelgebied</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Bestaandwinkelgebied.gml</bestandsnaam>
-                  <hash>4d5b6ffe3f8e3c6c846b3e3912fee5bd83a95ba31c165b38c6a5214c7ac8646f288e4983cc1074e7869bb01b52c32cdc6d7cf5568b608bd1f3c2ad7970916c50</hash>
+                  <hash>f8bcd0be3618bcd7836ef36f6539222cd833c26328b674bd711312851b29194ab2ae4e1e78bcf80008b4143330947399d50f8609a57749c6f08357ba30a98b18</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

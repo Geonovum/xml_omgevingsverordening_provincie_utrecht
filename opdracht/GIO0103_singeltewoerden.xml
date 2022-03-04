@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/singeltewoerden</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>SingelteWoerden.gml</bestandsnaam>
-                  <hash>13180c808e6b613dd5cf4a37c23d4c4711de60419d1667d31e199173c2e63761722b896aa871ea834b27d7e11d9d48c2a2265edca2b4713fd2637a9c48c917a7</hash>
+                  <hash>5aae1f990941d69ad3439200bbb6b49ff7a5a1f8df33eb52a58fdba5515b26666f5a6a56e594e5003f339f14824757fb74dbe8b4e69fb19d8479ff269a5e4a19</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

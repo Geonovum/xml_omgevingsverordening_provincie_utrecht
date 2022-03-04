@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/neder-rijn</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Neder-Rijn.gml</bestandsnaam>
-                  <hash>b60c5521a3a8f17a1846678d9236fa066f51d26f229ad1e0e7cf7547eb3bbced9f78330d16a7daf01e1c155f76557e0fa9e64387eba8ffb6a1c5f01200982377</hash>
+                  <hash>870d13fde6b106e00c7db23370644b9906396adb6a81e3c8c9d508dcbe14a9dca2da086126a551836462128ea42d4564ca0e5dc377b6e538f216b75561772516</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

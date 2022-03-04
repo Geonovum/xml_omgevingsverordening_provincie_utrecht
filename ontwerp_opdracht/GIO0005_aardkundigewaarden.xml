@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/aardkundigewaarden</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Aardkundigewaarden.gml</bestandsnaam>
-                  <hash>33ec336c6ac9b10e1961003e33ff0fcb0f29ae584511a3c8773b5c5ce18f061d60ad5505e666acf529e6aeef3a672645e570cbc519c9045fcde8976d01170fb5</hash>
+                  <hash>95252b764be7316f66f11ce6d97a8c18bd506f1c6fe1dfaca43e215601578d92b8ba35d737149ada992bfedbc6558a4ee7f289af51dc397e26b46d2bb009a956</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

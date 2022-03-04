@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/verbodvarendontgassen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Verbodvarendontgassen.gml</bestandsnaam>
-                  <hash>3989f5c6449c5f660df1a9c5777f54d55149a3fad71d636c51bbe51cd10682e3e11fbaa4a3362bbb7174823945ab89f21b51471005e08f09106b366d76ac804e</hash>
+                  <hash>ef1b4edd787ae71f84ee9b7c90c633609f0290373cd3cf20565e0052079b6f32064301e87f0d499fd7f3c43697d159204e7c233b0320ca728f5d29a8ea3526d8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

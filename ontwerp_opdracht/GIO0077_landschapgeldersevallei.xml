@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/landschapgeldersevallei</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>LandschapGeldersevallei.gml</bestandsnaam>
-                  <hash>4d67eb52b8b0546f692a38fcc73b09b4b3e4c071bd4ec07a2f8e00f44e4c9ce2c5fe0b357cb6ff5cdbeedaafa7ceaca39af2109e4ad39df3a54a0a7348939976</hash>
+                  <hash>ecc61f8560c586ee129b4306a06dceadb20d05256577258fd9ef09ec55862864a3a176112cfdcd5638b71fbecba0f851090a17d8ae8eb56062d071d13a0e9f8d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

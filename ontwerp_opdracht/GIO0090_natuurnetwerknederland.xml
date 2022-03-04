@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/natuurnetwerknederland</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>NatuurnetwerkNederland.gml</bestandsnaam>
-                  <hash>9af15b518d89f135929d48acdf8a59b7f0539254f425fbcf5596715f6693ab619cf2326ccc9adc49c87789c51958af8717ed603b2789281684daf01dca155335</hash>
+                  <hash>78f2cfc6a1324888d91163dcfae3fe7fe72cb971ab35c384c31ad503587acc49a1ca16bd8c22eae3aad5ceaaf984d1c46237c1c23943d218556071eb83254d63</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

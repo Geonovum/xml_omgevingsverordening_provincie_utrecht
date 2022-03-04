@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/sevesoinrichting</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Sevesoinrichting.gml</bestandsnaam>
-                  <hash>8316ccc29985996f095ef7e31223ef4d5f580df2875e09e9c7254f979b64ba8bcc91cf1429979159bc5247cb3a78f5e664ffa119b5b697eafa3a6b814dc65762</hash>
+                  <hash>217fee531be7a86d0da7325c7d52cd9ba7a474ddf611e353d780212404275228d5e05395ccf8e58ee6d4b7adc785f8cedc7c9888c1223a76a5108f20cbad0288</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

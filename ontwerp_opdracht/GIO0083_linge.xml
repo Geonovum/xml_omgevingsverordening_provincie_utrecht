@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/linge</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Linge.gml</bestandsnaam>
-                  <hash>5da1f24ee9caff3d65306fe62c5907b6b78e89483e314ce173df260b17a7db7918f02cb92f8b151392e9f3e6d2e7df9829754822f7316fd69aeb04f10c698db3</hash>
+                  <hash>ca2095bcc29d101b2d75db19b6abf04825329f264564b1045a980a9b9c9ff10c8f9484fa3a198bc175845287722af5a7211365d13ceb173dd36977374d413194</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

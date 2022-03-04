@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/vaarwegengemeenteamersfoort</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>VaarwegenGemeenteAmersfoort.gml</bestandsnaam>
-                  <hash>a376b55880ffae783c5658bca26007e13dab292ab98b8b39a1cf637425ec42583333b5858676001e2b1150e398340b002ccb2e8dda78d5857371a4815a35fb06</hash>
+                  <hash>32a5e486241c4635a8737e010c2f43992f341fdb2b2393369bd587aa3710159d76c59aeb774ff37e4d55aeaa859a9628d5e7fd40cf976cc551727c60df8b1e9b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

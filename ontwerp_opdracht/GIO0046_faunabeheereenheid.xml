@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/faunabeheereenheid</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Faunabeheereenheid.gml</bestandsnaam>
-                  <hash>dd1f91b8c1b5bc74b2f58c09fe36e3b37b40c5b9aa6e07e9266ed3ae8fded8815c946c9ede8eb47ce05b3c205cdd5ce23ba3bfa510d07bb50ce45dc860b8b904</hash>
+                  <hash>1a8f1d8fdb3751ae99e9e1d6bbdc596d5dc39a686dea2b96c943046bf1d57eca735844b328c168b03cff3c7efce7388162030f31dbe570d90449a81bf0f49268</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

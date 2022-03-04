@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/ganzenrustgebied</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Ganzenrustgebied.gml</bestandsnaam>
-                  <hash>5516be348bf991c951bc93958e3bcce49cdaa1ae231f80088a132eb9147d9cf06288794f424c58de9daa700697cd63dc7a69d0b6f711667b14c15b6e07300bf0</hash>
+                  <hash>de7c2077779c989299418d37504b6a3357b22d728f0117e016b79b35fd53d351f4d23604c74ca38658de7e2c2f8d347694b4e8b1e4bf09abfe2be8a7d30606dc</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

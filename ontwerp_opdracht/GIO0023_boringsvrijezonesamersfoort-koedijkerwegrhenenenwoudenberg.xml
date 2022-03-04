@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/boringsvrijezonesamersfoort-koedijkerwegrhenenenwoudenberg</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>BoringsvrijezonesAmersfoort-KoedijkerwegRhenenenWoudenberg.gml</bestandsnaam>
-                  <hash>25dbd5938e13487cd7e3b04355470450a3b6059acef278d88956a6ff9be1a01da223da7ef5e2e1d74947f7194cacb274a672a0052880a35448354ecc5538b24e</hash>
+                  <hash>cf0e2e17e55709690d95c7be13e567f3ddd4540d722b508d7e9ec2ef9116460733fd84f279c93c6414c234648203c97c1c2223136d5656925aa3acf0641ae934</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

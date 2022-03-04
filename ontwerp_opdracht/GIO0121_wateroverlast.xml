@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/wateroverlast</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Wateroverlast.gml</bestandsnaam>
-                  <hash>4e4be786facc85c2ff33099deedc22be3efd75ddfd6b0aa2f32a163aeb9b07ea89320f2aa9ae33af4070efa3fcb378074864e03eb7c0c8e54528d06c22b6639e</hash>
+                  <hash>a343a6f0df9cf16014f7aa418bfa2a46f217dc3dcf9f58fde3889aee48060a319979c167d169b9ac57769272d5bcf4a39ca13e67df76dfd5d77dfa22de5f44f3</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

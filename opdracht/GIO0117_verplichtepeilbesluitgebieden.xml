@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/verplichtepeilbesluitgebieden</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Verplichtepeilbesluitgebieden.gml</bestandsnaam>
-                  <hash>fee4d80efd733596764368c48ab3a823c6708e0d06a27e27dd232f3a2f780a68546868d850c84704158e8c82e360a117225041fb1d4ceb6c7c5641534080d873</hash>
+                  <hash>cab364accfdabc037e4766c3a81155fdef9101231e173a715c2ede2abe0ad2df662e3d2e961f8765cb683ea0c3cadbbbfb8db7a73a9ae71fef2dc16f43144901</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

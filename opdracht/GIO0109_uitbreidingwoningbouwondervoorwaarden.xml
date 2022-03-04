@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/uitbreidingwoningbouwondervoorwaarden</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Uitbreidingwoningbouwenbedrijventerreinondervoorwaarde.gml</bestandsnaam>
-                  <hash>d9723321a7d3c7dea065482879909b57022b11773ffba31caf965b69a80a6ae38cc46c5038a1b1710c415d4a887196ee17d754a411c7e342b949151e9c297053</hash>
+                  <hash>b2646c017f53fa8770b32cf185b5d71c372f16abe358e8781f8a3df9a885400ea7bbb586c5dca18e448be78f049af60a7a5433829cb81d9bbbdf812692748ca3</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/waterwingebiedenlexmondwoerdenenvianen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>WaterwingebiedenLexmondWoerdenenVianen.gml</bestandsnaam>
-                  <hash>f61d1e315d60bdcca62c897a0242efbc63573f397d1140b80d7573031a757ddd02a6d4cb63a1f8d6eb6fd6c2e7208703d1866c9f8189da51ccecf76836ca6ce7</hash>
+                  <hash>ca626528a0517de4eb0242959f1730759c305cf45b3366d6e2d273c7f93811c2f99970f19a3383e7d04128b160cf15f14d94c1179453016fbcf817b65adcc134</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/grondverzetenrommelterreinen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Grondverzetenrommelterreinen.gml</bestandsnaam>
-                  <hash>15c50a9186f1c0ff35e86bc01ad5b3f91946fed49048526c5e1b62579f7465822f1e56e78579b96de65aae73a88d9ca9e0f9dd6dc28e1c8ebe75637f9b080e9d</hash>
+                  <hash>2ddc7ddf31a4705f0471a6dc7c228983479ea3d4ae315fc3e3dfca7974aa3a3ab59d2552c80a7de290acace95f4ba9f045ff5422353a2d3432d5813d7cff2781</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

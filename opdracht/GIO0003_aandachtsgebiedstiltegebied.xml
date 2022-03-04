@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/aandachtsgebiedstiltegebied</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AandachtsgebiedStiltegebied.gml</bestandsnaam>
-                  <hash>5bfa95725bf85f6869dd661b1b08ff765b5004c323de59d50f8b320d0e0d7e9c43b4c5fb524f27f2182497d084c33f0e8fe4ecbc79aef8b93803d38e76362729</hash>
+                  <hash>f97bd53920797f6fffb9d613bfd661a4e4181458b6d3122bf5dee4f36b15183a377dc440e0fcbb3907b43f5890be6142a16ccfdfcc3c97d14650ce3f195c35c9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

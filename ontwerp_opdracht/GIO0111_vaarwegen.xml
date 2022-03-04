@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/vaarwegen</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Vaarwegen.gml</bestandsnaam>
-                  <hash>34044589667b0dc27e151f40a42d3cbfcc179f0632efb9abc2cdf994141fcf6c9d5885587834c3a91e8ba19e89f73493fc1d41a09320afdbf26d1a1d63374cf0</hash>
+                  <hash>1ce95762aab1b036fd2bf071d5c71a24b470e66aad626bcba365b02516b7ac389207f0e780898835f2c8645b49c7df1ec6168623e44c4c72aaa68927c231f027</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/militairerfgoed</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CHS-militairerfgoed.gml</bestandsnaam>
-                  <hash>7369a5d07fbdf24bd0fdc06a559c9fff727599827f69519314f0b46145562b2eb0a863ebf8df887c0be038cc61b73914bdb2a3888e19c3529b708fa9e3609f50</hash>
+                  <hash>09d97e01781e6d91a39c364e4cd2d1e2c27e53f07f6e6c8d1d1c4a389fa73ef6c0f36c6f2b31eb16f8946415837e13b7cc5267b500b85a68919d830cc4b1fbfb</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

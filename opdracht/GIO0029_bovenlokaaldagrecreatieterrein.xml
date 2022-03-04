@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/bovenlokaaldagrecreatieterrein</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Bovenlokaaldagrecreatieterrein.gml</bestandsnaam>
-                  <hash>20559c7a9cf2a42c0f95b32d57f4e97f571a1f5b42c0c8017a22b42dbb0240283cb5d1332242cbee58de9744eb7a5eeffbfcd82c8c713318d5018888195ecb5c</hash>
+                  <hash>20d79a81611a0ca02800345d4d3f3221b0fcd35c418b31d76a80b097cd3b6500874bcfe228c4b96e06b8b87bd77cd578c88c62e251c0111239a93c7e973d9ea8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

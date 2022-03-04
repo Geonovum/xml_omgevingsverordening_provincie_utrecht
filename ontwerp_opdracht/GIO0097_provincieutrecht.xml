@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/provincieutrecht</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>provincieUtrecht.gml</bestandsnaam>
-                  <hash>6e97ccde77b673526caeabdd655d057476431166c6a19f03f5fec70a937d541515d2587d88602663c2e1d7f875468da901b0734835472b429853590017f95fe2</hash>
+                  <hash>cf2eb122a8759a548c3c2e619802ed273d31cf053ea86372f223c256a30345a91ed8f0ad58c75be4b95b35522e1b197e02d946dfcf722e213d852876e5af6fe8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

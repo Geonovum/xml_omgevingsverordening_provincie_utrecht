@@ -214,7 +214,7 @@
                <rol:identificatie>nl.imow-pv26.activiteit.2021000000014</rol:identificatie>
                <rol:naam>gedenktekens plaatsen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenSpoorweg</rol:groep>
-                          <!--http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg heeft een bug?-->
+               <!--http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg heeft een bug?-->
                <rol:bovenliggendeActiviteit>
                   <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.topactiviteitOmgVerordening"/>
                </rol:bovenliggendeActiviteit>

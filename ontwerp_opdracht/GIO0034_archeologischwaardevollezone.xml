@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/archeologischwaardevollezone</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CHS-archeologischewaardevollezone.gml</bestandsnaam>
-                  <hash>1b00c479862f5a856ae35ab9e2d83e016b0abbe559fbbbcf0e07268352fe781c77f3290d37a6298cd208a5e221bfd1532e85178f4bf48d236ba33a0f9010d691</hash>
+                  <hash>e0553cfcc1d8effc497ef24c2c061b4355b7debdcec9f5bb13bf784832528d8c5b022e205efe56704fa81b5977e58d3bc5ca3986804491e1096b7612a320c31c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
