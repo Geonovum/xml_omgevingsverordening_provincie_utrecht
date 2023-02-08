@@ -1572,7 +1572,7 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
@@ -1583,6 +1583,6 @@
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
    </sl:standBestand>
 </ow-dc:owBestand>

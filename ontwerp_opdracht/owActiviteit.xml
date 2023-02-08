@@ -22,7 +22,7 @@
             <sl:objectType>Activiteit</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      <sl:stand><!-- Deze bovenliggende activiteit moet eenmalig gedefinieerd worden. Omdat deze gekoppeld moet zijn aan een regeltekst, deze aan artikel 1.4 gehangen. -->
+<!--      <sl:stand><!-\- Deze bovenliggende activiteit moet eenmalig gedefinieerd worden. Omdat deze gekoppeld moet zijn aan een regeltekst, deze aan artikel 1.4 gehangen. -\->
          <ow-dc:owObject>
             <rol:Activiteit>
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
@@ -34,7 +34,7 @@
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
